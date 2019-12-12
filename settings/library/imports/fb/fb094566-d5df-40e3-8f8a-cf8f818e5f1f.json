@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "联系我们",
+    "texture": "9416f4d2-40d6-4e62-bee0-4743c604bb8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      321,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      321,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

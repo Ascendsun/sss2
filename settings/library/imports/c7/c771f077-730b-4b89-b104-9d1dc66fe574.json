@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "房间",
+    "texture": "7ba251a6-1ebf-45cb-b0c2-b324f7ba3a73",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      60,
+      25
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      61,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

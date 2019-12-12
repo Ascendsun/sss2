@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "beimi-scene.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg1": {
+      "__uuid__": "eeb219b0-e212-454a-8831-9073b4098f81"
+    },
+    "背景": {
+      "__uuid__": "29fc2191-7fcb-497a-ae31-df97394b970c"
+    },
+    "背景1": {
+      "__uuid__": "acae5e0c-47f0-4528-a384-de5d671e3995"
+    },
+    "背景可随意拉伸铺满": {
+      "__uuid__": "da570e8e-727f-48aa-9098-2d7888071cd6"
+    }
+  }
+}

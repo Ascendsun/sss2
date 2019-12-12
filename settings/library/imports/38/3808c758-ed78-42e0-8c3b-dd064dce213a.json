@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanbeiguizhe",
+    "texture": "20b5fd02-172e-4784-90b1-a6891d6ddf95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      909,
+      404
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      909,
+      404
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

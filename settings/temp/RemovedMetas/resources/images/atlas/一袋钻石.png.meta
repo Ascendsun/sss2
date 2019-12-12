@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bdaef38c-b57a-4eaf-ae83-05074ffccd77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "一袋钻石": {
+      "ver": "1.0.3",
+      "uuid": "bfc33a4a-dddd-4ce5-802e-f0fd8c873235",
+      "rawTextureUuid": "bdaef38c-b57a-4eaf-ae83-05074ffccd77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 127,
+      "height": 101,
+      "rawWidth": 127,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

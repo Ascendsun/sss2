@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玻璃背板灰",
+    "texture": "737a2833-e553-4712-ae72-4fb7d9fc4fde",
+    "atlas": "",
+    "rect": [
+      349,
+      172,
+      1316,
+      836
+    ],
+    "offset": [
+      -73,
+      -50
+    ],
+    "originalSize": [
+      2160,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "rightcards",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "rightcards",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "92a2dUdJFBDKb8JTWhMyGZu",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "514aG9ebRG9av1RSpSxRaA"
+        },
+        "fileId": "68pQ0Fm45Ju6QorBL9QRK3"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -150
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家手牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "e0eVOy1e9GTaPuRk/j1++K"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "514aG9ebRG9av1RSpSxRaA"
+        },
+        "fileId": "3dRx6W61FHi6o46Ier5RbE"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 24,
+        "height": 63
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家手牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1387,
+        46,
+        24,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

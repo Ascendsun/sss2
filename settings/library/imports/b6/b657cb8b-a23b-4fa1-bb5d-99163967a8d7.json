@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "数字盘",
+    "texture": "7a3c2b79-3f62-42d2-879b-adadcb8878fa",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      929,
+      485
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      929,
+      486
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

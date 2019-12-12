@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "外框",
+    "texture": "615e062b-225e-4ba3-8d04-1dadc24396e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1616,
+      534
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1616,
+      534
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

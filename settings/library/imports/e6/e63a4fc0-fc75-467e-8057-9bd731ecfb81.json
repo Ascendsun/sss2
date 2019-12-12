@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "绑定邀请码22",
+    "texture": "0c6460ec-48d2-4561-af64-67f567d09cda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      175,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      175,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

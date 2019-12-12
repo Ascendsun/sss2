@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "渐变横线",
+    "texture": "a41f1bfb-03fd-4e99-ad2e-11473a124957",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      839,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      839,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

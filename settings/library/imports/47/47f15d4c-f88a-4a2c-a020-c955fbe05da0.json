@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "背板黄",
+    "texture": "dbba1d7f-938a-4d3d-9078-6fda69118aba",
+    "atlas": "",
+    "rect": [
+      373,
+      199,
+      1264,
+      784
+    ],
+    "offset": [
+      -75,
+      -51
+    ],
+    "originalSize": [
+      2160,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

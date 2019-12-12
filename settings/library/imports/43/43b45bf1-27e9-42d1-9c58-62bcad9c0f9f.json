@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "beimi-other.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "反馈-玩家反馈框": {
+      "__uuid__": "018ce89c-13dc-4657-a939-4913cf267078"
+    },
+    "反馈-系统回复框": {
+      "__uuid__": "5db2b96b-2ec9-46c6-85bf-1f2fccdc03c5"
+    },
+    "失败角色": {
+      "__uuid__": "394def69-85cb-4d28-80e9-e798b5c0550d"
+    },
+    "排行榜-底": {
+      "__uuid__": "7a7c2b73-a1d1-4e41-b26b-41c4bf04f7e1"
+    },
+    "牌局结束-base_loser": {
+      "__uuid__": "c1a1d655-cb55-42bc-9e74-b86ab36d6229"
+    },
+    "牌局结束-base_winner": {
+      "__uuid__": "a3d512c9-481c-4c9d-b1e2-0c909bd08b51"
+    },
+    "玻璃底框": {
+      "__uuid__": "b0d36e98-17c3-4aa3-be0d-fe2c2c5e8c57"
+    },
+    "聊天-base": {
+      "__uuid__": "0031d579-bde5-4974-b8e6-49c036cc1b9a"
+    },
+    "背景-龙纹居中": {
+      "__uuid__": "6629ebc5-da8e-4050-8a04-8df86ab4d57e"
+    },
+    "角色": {
+      "__uuid__": "ea9c6e2c-44a4-4ba6-8e57-f94abd08f2ae"
+    },
+    "邮件-mail_base": {
+      "__uuid__": "cd55cff5-b9c3-4056-b20a-adfb3200930e"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "取消",
+    "texture": "2d0f22d3-bdfc-4b78-a5f6-29e870418ddd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

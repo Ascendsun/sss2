@@ -1,0 +1,344 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "聊天-base",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1449,
+        1,
+        475,
+        514
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        475,
+        514
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "反馈-玩家反馈框",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1874,
+        478,
+        677,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        677,
+        143
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "失败角色",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1,
+        434,
+        433,
+        652
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        433,
+        652
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "beimi-other.plist",
+    "_spriteFrames": {
+      "反馈-玩家反馈框": {
+        "__uuid__": "01jOicE9xGV6k5SRPPJnB4"
+      },
+      "反馈-系统回复框": {
+        "__uuid__": "5dsrlrLslGxoW/Hy/M3APF"
+      },
+      "失败角色": {
+        "__uuid__": "39Te9phctNKIDp55i1wFUN"
+      },
+      "排行榜-底": {
+        "__uuid__": "7afCtzodFOQbJrQcS/BPfh"
+      },
+      "牌局结束-base_loser": {
+        "__uuid__": "c1odZVy1VCvJ50uGqzbWIp"
+      },
+      "牌局结束-base_winner": {
+        "__uuid__": "a31RLJSBxMnbHiDJCb0ItR"
+      },
+      "玻璃底框": {
+        "__uuid__": "b0026YF8NKo74N/iwsXoxX"
+      },
+      "聊天-base": {
+        "__uuid__": "00MdV5veVJdLjmScA2zBua"
+      },
+      "背景-龙纹居中": {
+        "__uuid__": "66KevF2o5AUIoEjfhqtNV+"
+      },
+      "角色": {
+        "__uuid__": "eanG4sRKRLpo5X+Uq9CPKu"
+      },
+      "邮件-mail_base": {
+        "__uuid__": "cdVc/1ucNAVrIKrfsyAJMO"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "反馈-系统回复框",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        436,
+        434,
+        742,
+        181
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        742,
+        181
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "背景-龙纹居中",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        619,
+        436,
+        507,
+        506
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        507,
+        506
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "排行榜-底",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1400,
+        478,
+        363,
+        459
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        363,
+        459
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌局结束-base_winner",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1424,
+        843,
+        270,
+        448
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        270,
+        448
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玻璃底框",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1,
+        1,
+        792,
+        431
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        792,
+        431
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌局结束-base_loser",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        1128,
+        436,
+        270,
+        448
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        270,
+        448
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-mail_base",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        619,
+        944,
+        803,
+        190
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        803,
+        190
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "角色",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        795,
+        1,
+        433,
+        652
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        433,
+        652
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

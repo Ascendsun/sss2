@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "服务费",
+    "texture": "643a343f-1214-4a3b-b79a-466474fac385",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

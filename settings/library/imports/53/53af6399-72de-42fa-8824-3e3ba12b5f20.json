@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "翻倍规则",
+    "texture": "7f02c32e-d84f-4183-931c-f73bcee7933f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

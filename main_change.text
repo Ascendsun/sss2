@@ -1,0 +1,6 @@
+if (jsb) {
+	var hotUpdateSearchPaths = localStorage.getItem('HotUpdateSearchPaths');
+	if (hotUpdateSearchPaths) {
+		jsb.fileUtils.setSearchPaths(JSON.parse(hotUpdateSearchPaths));
+	}
+}

@@ -1,0 +1,415 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "groupitems",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "option",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "23db4wB+L1AhpChiA3tHB3S",
+          "node": {
+            "__id__": 1
+          },
+          "itemname": {
+            "__id__": 4
+          },
+          "checkbox": {
+            "__id__": 8
+          },
+          "checkboxnode": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "1edlTU0rZDnbk7mWE11InH"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 170,
+        "height": 40
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 5
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "item",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 7
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "87+PNNxGVGIYwyyub/CpLw"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -50,
+        "y": 1
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "name",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 4
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 3
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 5
+              },
+              "component": "RoomClick",
+              "handler": "onClick"
+            }
+          ],
+          "_N$target": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "bajUt4hnRIlpDK70JtYkWv"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 152,
+        "g": 65,
+        "b": 41
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 160,
+        "height": 22
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 107,
+        "y": -1
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 3
+      },
+      "_useOriginalSize": false,
+      "_string": "无鬼牌",
+      "_N$string": "无鬼牌",
+      "_fontSize": 22,
+      "_lineHeight": 22,
+      "_N$file": {
+        "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+      },
+      "_isSystemFontUsed": false,
+      "_N$verticalAlign": 1,
+      "_N$overflow": 3
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "GroupItemClick",
+      "_parent": {
+        "__id__": 6
+      },
+      "_components": [
+        {
+          "__type__": "f9e4fYjsVRIGLcQEne6Zyt1",
+          "node": {
+            "__id__": 5
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "4f3x2hTwpPeaQNvpcCiP+N"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "script",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "0393KlnW9FhptXRWisTI4b"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "checkbox",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 8
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "4e9TkZ475MzaDMeuSz0gtA"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 7
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 5
+              },
+              "component": "RoomClick",
+              "handler": "onClick"
+            }
+          ],
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 7
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "45oHglmdFP3JVQ7wPyBm4l"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 40,
+        "height": 40
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "房间-options_selected",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "9eeFCNlk1KI6bduRiZgpC3"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1aizpXh5pAZK6Wxt1T5yYp"
+        },
+        "fileId": "4elZozNmVOwKxAh9tP6CT0"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 40,
+        "height": 35
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "房间-options_unselected",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1186,
+        1255,
+        32,
+        33
+      ],
+      "offset": [
+        -3,
+        1
+      ],
+      "originalSize": [
+        40,
+        35
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "房间-options_selected",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1488,
+        1339,
+        40,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        35
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

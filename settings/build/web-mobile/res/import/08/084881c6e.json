@@ -1,0 +1,4732 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1282,
+        375,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        950,
+        662,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-flower4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        167,
+        832,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1311,
+        709,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "地主标志",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        582,
+        970,
+        50,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        58
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1004,
+        985,
+        30,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        42
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1048,
+        924,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1139,
+        861,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "icon_设置",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        854,
+        841,
+        73,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        74
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_不抢",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        531,
+        925,
+        83,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        83,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        617,
+        794,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "自己出牌对家出牌对家碰牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        228,
+        950,
+        46,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "a玩家出牌_",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        759,
+        271,
+        108,
+        174
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        108,
+        174
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1393,
+        111,
+        18,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        18,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1230,
+        708,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮+",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1228,
+        941,
+        56,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_明牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1184,
+        656,
+        83,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        83,
+        44
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "对家杠牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        983,
+        39,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        39,
+        61
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "底_小",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        882,
+        916,
+        44,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "自己出牌对家出牌对家碰牌 (2)",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        617,
+        907,
+        41,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        62
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        869,
+        620,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "大王_大",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        84,
+        142,
+        185
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        185
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1071,
+        652,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins0",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1373,
+        567,
+        26,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        38
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_橙色",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        287,
+        572,
+        182,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        93
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_橙色_长",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        759,
+        222,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        222,
+        93
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "11",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1097,
+        733,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1079,
+        803,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        728,
+        527,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-flower2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1030,
+        274,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1168,
+        935,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1350,
+        882,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_继续游戏",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1228,
+        123,
+        163,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        45
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        519,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家出牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1286,
+        942,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-season2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        374,
+        714,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        788,
+        608,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "自己杠牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        276,
+        950,
+        46,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_加倍",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1354,
+        262,
+        83,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        83,
+        44
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "头像框底",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        145,
+        572,
+        140,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        145
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "大王_中",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        772,
+        447,
+        78,
+        103
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        103
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1078,
+        863,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_加倍",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        869,
+        733,
+        106,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        106,
+        60
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r12",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        328,
+        940,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1381,
+        1,
+        30,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "小王_中",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        248,
+        845,
+        78,
+        103
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        103
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1201,
+        377,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        841,
+        527,
+        33,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        42
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1373,
+        538,
+        27,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        38
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1048,
+        984,
+        26,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        702,
+        915,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        822,
+        916,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins_qian",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1071,
+        500,
+        46,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        47
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        594,
+        713,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1337,
+        942,
+        30,
+        41
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        41
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "13",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        642,
+        950,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "金币底",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        520,
+        363,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        363,
+        50
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        167,
+        945,
+        77,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        59
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        868,
+        976,
+        31,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        762,
+        915,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_不加倍",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        409,
+        827,
+        123,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        123,
+        44
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        930,
+        985,
+        27,
+        37
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_出牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1326,
+        216,
+        82,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "黑桃",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1109,
+        983,
+        32,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        31
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        788,
+        721,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_要不起",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1200,
+        216,
+        124,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        124,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        958,
+        500,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        958,
+        581,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_抢地主",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1228,
+        63,
+        157,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        157,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1230,
+        821,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        594,
+        600,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        698,
+        802,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-season1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        293,
+        714,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "icon_返回",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        455,
+        923,
+        73,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        74
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1311,
+        596,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1350,
+        822,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        675,
+        608,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq0",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1199,
+        801,
+        29,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_不出",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        931,
+        743,
+        104,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        104,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r10",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        928,
+        925,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_叫地主",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        458,
+        155,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        155,
+        59
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        877,
+        507,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        959,
+        985,
+        30,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        43
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "对家手牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        96,
+        951,
+        41,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        62
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo7",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1039,
+        387,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1373,
+        478,
+        29,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        38
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1071,
+        571,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        455,
+        810,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        64,
+        983,
+        26,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        901,
+        985,
+        27,
+        37
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-flower1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        949,
+        274,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "12",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1157,
+        741,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_提示",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1184,
+        571,
+        83,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        83,
+        44
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "自己手牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        471,
+        572,
+        78,
+        118
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        118
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1139,
+        801,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1018,
+        864,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1230,
+        595,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        92,
+        994,
+        26,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        38
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_叫地主",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        471,
+        652,
+        121,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        121,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "用户信息底",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        96,
+        759,
+        190,
+        69
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        190,
+        69
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "10",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1019,
+        803,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo9",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1192,
+        264,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1199,
+        890,
+        29,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "beimi-4.plist",
+    "_spriteFrames": {
+      "1": {
+        "__uuid__": "fesr0v88RJkYcBxKlqftM5"
+      },
+      "2": {
+        "__uuid__": "49mch+isZD+ZFS5QhW830D"
+      },
+      "3": {
+        "__uuid__": "27mjzwE1BDL6O+LsXoOOf/"
+      },
+      "4": {
+        "__uuid__": "8eCi8GtsZJd5uMaIinCKQg"
+      },
+      "5": {
+        "__uuid__": "61HAS6PO9FmoqMtVU8mxIC"
+      },
+      "6": {
+        "__uuid__": "c9bI1iylRGTomEi1bLPU7X"
+      },
+      "7": {
+        "__uuid__": "6axXIIdK1HBYCzKthXP993"
+      },
+      "8": {
+        "__uuid__": "0de+GzAdRCj6MvmeG2P34r"
+      },
+      "9": {
+        "__uuid__": "54t2LPImpA3q0VI2qlrhVS"
+      },
+      "10": {
+        "__uuid__": "92Xtvz/F9CpL8XixQNiFyC"
+      },
+      "11": {
+        "__uuid__": "24lnPrMPJKQLNCr87epCIk"
+      },
+      "12": {
+        "__uuid__": "834LGyycdENL45w8Eg0phh"
+      },
+      "13": {
+        "__uuid__": "50bQpqLRpMW7P/fSYirrI4"
+      },
+      "a玩家出牌_": {
+        "__uuid__": "13/8r7Bt1GkIiAsGvADVth"
+      },
+      "coins0": {
+        "__uuid__": "20hOjzkclCpK7RUXT72Ata"
+      },
+      "coins1": {
+        "__uuid__": "14XuBEKM5FYKAk3tNysaTI"
+      },
+      "coins2": {
+        "__uuid__": "82Z0X/SFJLZ5dILuplwl9j"
+      },
+      "coins3": {
+        "__uuid__": "90eQd3TVZH4ojsNvvJ8wIQ"
+      },
+      "coins4": {
+        "__uuid__": "7d6HIYsElJsI4k/IyZgNth"
+      },
+      "coins5": {
+        "__uuid__": "83LY+KMC1CJ7x98mT75TLq"
+      },
+      "coins6": {
+        "__uuid__": "c8ta/L9cVBnbBtLB5o2hZ2"
+      },
+      "coins7": {
+        "__uuid__": "55Jwv/gvxChrUFhMa1ucmD"
+      },
+      "coins8": {
+        "__uuid__": "48giMpRMVCirhy4TbDZ8fC"
+      },
+      "coins9": {
+        "__uuid__": "47oDr7GU1N0auuYajYesL4"
+      },
+      "coins_dian": {
+        "__uuid__": "e8VPA1ZYFNf65Uo4dnZZd8"
+      },
+      "coins_qian": {
+        "__uuid__": "4dzGOrk3lEsp+81vT2QVJ1"
+      },
+      "coins_wan": {
+        "__uuid__": "f2j6zWy2NGu4fn9Ieji1Ir"
+      },
+      "coins_zhang": {
+        "__uuid__": "devehNphxHurxEmalpQTGQ"
+      },
+      "icon_托管": {
+        "__uuid__": "f5Y9tBJ/5MnbvMfZDWU73o"
+      },
+      "icon_设置": {
+        "__uuid__": "0feszQhJRBqaAEs03IHeuu"
+      },
+      "icon_返回": {
+        "__uuid__": "67k3y3rbZKz6LOmOpJLNRV"
+      },
+      "jsq": {
+        "__uuid__": "aal9BJJGlHQqk5g9D2GHuf"
+      },
+      "jsq0": {
+        "__uuid__": "711shg3/5M7rIVdaxxTTA2"
+      },
+      "jsq1": {
+        "__uuid__": "a6/E0rCDNLcLlOWsVEsr4+"
+      },
+      "jsq2": {
+        "__uuid__": "b9pHB8GL1Deo5BoNITT+s9"
+      },
+      "jsq3": {
+        "__uuid__": "98XjDF1O1CKq81mFp6Hpo0"
+      },
+      "jsq4": {
+        "__uuid__": "47aTYdV4pAQYQSIe5pgHse"
+      },
+      "jsq5": {
+        "__uuid__": "0azwcSnxNKEKDVkSv7LmXY"
+      },
+      "jsq6": {
+        "__uuid__": "51Qofdg9lOf4cLJULd5ThY"
+      },
+      "jsq7": {
+        "__uuid__": "4fesH76YlFT4xelNJxIFR4"
+      },
+      "jsq8": {
+        "__uuid__": "45ZWjVZidOs6FTn204CNAJ"
+      },
+      "jsq9": {
+        "__uuid__": "7bPaPwQf9Juo/bbqTj8B5j"
+      },
+      "r1": {
+        "__uuid__": "4cZuSFMatHkKIGIegZyRjg"
+      },
+      "r10": {
+        "__uuid__": "74xlNdc7JN0aPu3NRp2uvK"
+      },
+      "r11": {
+        "__uuid__": "f0V8CY0elID7WqKHAmK3Ed"
+      },
+      "r12": {
+        "__uuid__": "45KbKIbNpGY7j79U00yuNB"
+      },
+      "r13": {
+        "__uuid__": "a2VYI80itL9qBF3wOXUNwk"
+      },
+      "r2": {
+        "__uuid__": "ceoOwYNmtPv4GCHDozA4Jc"
+      },
+      "r3": {
+        "__uuid__": "f3p98pqENG3aw6+XuG8AUa"
+      },
+      "r4": {
+        "__uuid__": "2bfcMIX7JDKLRWPSbXAQyT"
+      },
+      "r5": {
+        "__uuid__": "8fK88V65BO/ZsukQaB8NEe"
+      },
+      "r6": {
+        "__uuid__": "3dNCmpE6ZOMqJBXIhCgOd/"
+      },
+      "r7": {
+        "__uuid__": "0cIITLZPNO26Nu3PZVsNWB"
+      },
+      "r8": {
+        "__uuid__": "99KoLJgW1Ja6Ndj+Ebw0uT"
+      },
+      "r9": {
+        "__uuid__": "2aWWSR+lJIG64KaAp1djSs"
+      },
+      "侧家出牌": {
+        "__uuid__": "2eZrYOavdMsZhdeeHz0g+V"
+      },
+      "侧家手牌": {
+        "__uuid__": "e0eVOy1e9GTaPuRk/j1++K"
+      },
+      "侧家杠牌": {
+        "__uuid__": "e6i9/CqApH9qc2zxs5avYS"
+      },
+      "地主标志": {
+        "__uuid__": "0ahvbWv+tNZJoj91fOG6IS"
+      },
+      "大王_中": {
+        "__uuid__": "3a42y1XalNlIRGKDmgufmE"
+      },
+      "大王_大": {
+        "__uuid__": "20Pvyi5wFJ6IQatzCeyv7u"
+      },
+      "大王_小": {
+        "__uuid__": "a3G3XzUelGf5CDE5gWhuuu"
+      },
+      "头像框底": {
+        "__uuid__": "38xVuZ9GlFGrJI2VyzM9Zv"
+      },
+      "对家手牌": {
+        "__uuid__": "7comQhPzhCLbYgGiZTsOwm"
+      },
+      "对家杠牌": {
+        "__uuid__": "1aWg59guFKpJsiVCpItXqU"
+      },
+      "小王_中": {
+        "__uuid__": "46dBieWZtAO5WTLpVlX4tA"
+      },
+      "小王_大": {
+        "__uuid__": "f4ScfsOCNLdYZagGHVp/vn"
+      },
+      "小王_小": {
+        "__uuid__": "dbaqD73yBFq7zYa7cWcouE"
+      },
+      "底_中": {
+        "__uuid__": "f1jFFLXM1OQ4u/1VKT65R4"
+      },
+      "底_大": {
+        "__uuid__": "c0A75t8aZG2qhCPeQV/QNB"
+      },
+      "底_小": {
+        "__uuid__": "1b9UloIbFDaLkMo2zYYep1"
+      },
+      "房卡底": {
+        "__uuid__": "bdy+OOO4JAbp1jXCdTb6Mm"
+      },
+      "按钮+": {
+        "__uuid__": "147Mnho9lFOYGJ2mo1gD/D"
+      },
+      "按钮_不出": {
+        "__uuid__": "d28W1YzV1GuIUPlakEDOH1"
+      },
+      "按钮_不加倍": {
+        "__uuid__": "55FCT1taFEh6gNlloRoWk/"
+      },
+      "按钮_不抢": {
+        "__uuid__": "11PkTplXRLPpz8v8rzbGb5"
+      },
+      "按钮_出牌": {
+        "__uuid__": "56YhCHs+ND0rm2GPAz74Je"
+      },
+      "按钮_加倍": {
+        "__uuid__": "36oYudakxGNpt5cOaC7JkC"
+      },
+      "按钮_叫地主": {
+        "__uuid__": "907cGZ6BVE4pXk5UZE0P8E"
+      },
+      "按钮_开始游戏": {
+        "__uuid__": "d7SlxYsYNHLYrcFJ+J5YIG"
+      },
+      "按钮_抢地主": {
+        "__uuid__": "aeHMV30cNBEpemUny0tX35"
+      },
+      "按钮_提示": {
+        "__uuid__": "87oSHNmy9Gh6mhNewO99tY"
+      },
+      "按钮_明牌": {
+        "__uuid__": "167J4Qd2RCH6LyOcwlwdoj"
+      },
+      "按钮_明牌开始": {
+        "__uuid__": "e6D+2SZCRGs4zOBHRn4U3E"
+      },
+      "按钮_橙色": {
+        "__uuid__": "220sPFmBVAvIr2O+W3wCxX"
+      },
+      "按钮_橙色_长": {
+        "__uuid__": "24SoB2g0hOG4IGB5DO8fOE"
+      },
+      "按钮_继续游戏": {
+        "__uuid__": "2b9u3SQ75O8JQg/MO0BArI"
+      },
+      "按钮_绿色": {
+        "__uuid__": "e7xeQgzCJOtovvk6EGHjSu"
+      },
+      "按钮_绿色_长": {
+        "__uuid__": "cdEsmvLUhL244bSEVNoQNL"
+      },
+      "按钮_要不起": {
+        "__uuid__": "5a3cX75GxJxI1ODgCLTXzp"
+      },
+      "提示_1": {
+        "__uuid__": "51LjtAk/pJnLv4QTFlsLeW"
+      },
+      "提示_2": {
+        "__uuid__": "f5wq3CHFFOYovXC2gwrKap"
+      },
+      "提示_3": {
+        "__uuid__": "9bt6r6rCVGspX7tlfh+yem"
+      },
+      "提示_不出": {
+        "__uuid__": "74KI628aJHmJyhazjmzJlw"
+      },
+      "提示_不加倍": {
+        "__uuid__": "a93wNt1l1NqL2IOpvly46M"
+      },
+      "提示_不抢": {
+        "__uuid__": "fbZm6uPJxKXqmkTg6yvpUy"
+      },
+      "提示_加倍": {
+        "__uuid__": "44y4hkJ+NDjbf/rgfXkFaa"
+      },
+      "提示_叫地主": {
+        "__uuid__": "763y8QTK1FkI3OzC8B2J3J"
+      },
+      "提示_抢地主": {
+        "__uuid__": "5ev7BiF0BMfLNy2vEfs6Rw"
+      },
+      "方片": {
+        "__uuid__": "e56ZqHGAtC/6s2ovjLxwCq"
+      },
+      "桌子_对称": {
+        "__uuid__": "b4ro6GPm5NnYpxHi7mjYpD"
+      },
+      "梅花": {
+        "__uuid__": "dd53xtWN9IvZ1MX9yrsbvf"
+      },
+      "牌面-flower1": {
+        "__uuid__": "83PqRVx4tNRJX+hy4GsRUC"
+      },
+      "牌面-flower2": {
+        "__uuid__": "28y/M9UDtKrqsrDGQGKa1q"
+      },
+      "牌面-flower3": {
+        "__uuid__": "a1lw+RMmxJTJyecUdJDMUx"
+      },
+      "牌面-flower4": {
+        "__uuid__": "08f5EWH5xC/Lb5mgi9cjbg"
+      },
+      "牌面-season1": {
+        "__uuid__": "66YZi2gnRP/aBxWMk10evh"
+      },
+      "牌面-season2": {
+        "__uuid__": "2fRN4SDttDToDv0oeB/7yg"
+      },
+      "牌面-season3": {
+        "__uuid__": "d6C/qtAfZIi4Jjw1zL2Ktz"
+      },
+      "牌面-season4": {
+        "__uuid__": "bb2A6JGspKNLriIjErUEjf"
+      },
+      "牌面-suo1": {
+        "__uuid__": "e6mA8c0pNFkYz0uiGExAWG"
+      },
+      "牌面-suo2": {
+        "__uuid__": "b9Ksy/NWdM8pgdI3fhAxs9"
+      },
+      "牌面-suo3": {
+        "__uuid__": "80ljkbmDhDU7D/td9Yep/O"
+      },
+      "牌面-suo4": {
+        "__uuid__": "d5LG9IqjRKT564/TAXko7Y"
+      },
+      "牌面-suo5": {
+        "__uuid__": "f7Xxh4MwRFaYkLNy2OFKMs"
+      },
+      "牌面-suo6": {
+        "__uuid__": "bc4ZhRV55Ii5yf6oHyNyhq"
+      },
+      "牌面-suo7": {
+        "__uuid__": "7dVe5NVuVLK5+FpcGuCwzX"
+      },
+      "牌面-suo8": {
+        "__uuid__": "9etpU1nghEYKBtWzY/WhJJ"
+      },
+      "牌面-suo9": {
+        "__uuid__": "93OBSW78hCnLsJwS4T9KYf"
+      },
+      "牌面-tong1": {
+        "__uuid__": "46f7ucedBCYqC/yrUrC8Oz"
+      },
+      "牌面-tong2": {
+        "__uuid__": "fdhn/Wr7tApLmFIisjP7eU"
+      },
+      "牌面-tong3": {
+        "__uuid__": "00ivNGlt9HVLC4gav5NtE2"
+      },
+      "牌面-tong4": {
+        "__uuid__": "a0yY+5C0ZGY5MMykPuoGRz"
+      },
+      "牌面-tong5": {
+        "__uuid__": "5bPvjyxbFGtI7f77QbbbKn"
+      },
+      "牌面-tong6": {
+        "__uuid__": "7aQAI3sehEHqxaeJsrplz6"
+      },
+      "牌面-tong7": {
+        "__uuid__": "5dktDTGgxCH5/F2qrmI9yV"
+      },
+      "牌面-tong8": {
+        "__uuid__": "7fRlcFVMZIaI9FUzWLvCM1"
+      },
+      "牌面-tong9": {
+        "__uuid__": "8f6KBPX5VJb62R+ovNspFy"
+      },
+      "牌面-wan1": {
+        "__uuid__": "6aGpIImrFHHolcIl3gpifS"
+      },
+      "牌面-wan2": {
+        "__uuid__": "20Q0wG3jNCGYDNCiopfzkw"
+      },
+      "牌面-wan3": {
+        "__uuid__": "14mfnkS/pMM6GWuUGgDWXR"
+      },
+      "牌面-wan4": {
+        "__uuid__": "081jipu3ZATIrLL5cyLPqm"
+      },
+      "牌面-wan5": {
+        "__uuid__": "2dBBNCFbFGCZME5dnPXFvl"
+      },
+      "牌面-wan6": {
+        "__uuid__": "28JY2YjDBLFICRGkoxRQ7t"
+      },
+      "牌面-wan7": {
+        "__uuid__": "62q2b9DYVLmrdCqnxp0bRn"
+      },
+      "牌面-wan8": {
+        "__uuid__": "4eqtAtrLpCG5vWT3l8Cdly"
+      },
+      "牌面-wan9": {
+        "__uuid__": "11QWaTWOdBuqCrue3fPhAo"
+      },
+      "牌面-wind1": {
+        "__uuid__": "6fLRdez9hAKo6gqRsQK0VB"
+      },
+      "牌面-wind2": {
+        "__uuid__": "a3NFyTNYRF3bYQJHTY6Ohq"
+      },
+      "牌面-wind3": {
+        "__uuid__": "65ntYdTU5OQLc8W36xtlna"
+      },
+      "牌面-wind4": {
+        "__uuid__": "34PsY0YoFEaKqFG5vEVK7W"
+      },
+      "牌面-wind5": {
+        "__uuid__": "20FRM8So5LtpOcL1GDQFXj"
+      },
+      "牌面-wind6": {
+        "__uuid__": "04oFSoEgZKW7uFgDozS6LL"
+      },
+      "牌面-wind7": {
+        "__uuid__": "59vAJsoJtFp6zG2XKLGv5x"
+      },
+      "用户信息底": {
+        "__uuid__": "91yF5kghBLMrszAAv2tWxY"
+      },
+      "红心": {
+        "__uuid__": "eeEKKsIqVOzIsRD5HvsH7t"
+      },
+      "聊天": {
+        "__uuid__": "d80KQCZuJDXZqYWj/sh8hZ"
+      },
+      "背_大": {
+        "__uuid__": "9bSLozt7ZEBZ04SUDm8jEx"
+      },
+      "自己出牌对家出牌对家碰牌 (2)": {
+        "__uuid__": "1fIdAA12VHb72Q7TzmNoSv"
+      },
+      "自己出牌对家出牌对家碰牌": {
+        "__uuid__": "13uidhVE9LJLuyWEbApDw8"
+      },
+      "自己手牌": {
+        "__uuid__": "897jVfG21GqbBhnO+pTfKp"
+      },
+      "自己杠牌": {
+        "__uuid__": "36nmI81/1LdaapIsRlShBI"
+      },
+      "金币底": {
+        "__uuid__": "50pgrpE0ZKJotjUUW9qzIV"
+      },
+      "金币玻璃底框": {
+        "__uuid__": "bfg2X5jGJPtaMxdc9SdBXy"
+      },
+      "麻将牌": {
+        "__uuid__": "9dDIa5FTBHw5VE6S+gEjS9"
+      },
+      "黑桃": {
+        "__uuid__": "57oyJyupRBAqFA3D8JuxLN"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1108,
+        923,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "背_大",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        759,
+        84,
+        142,
+        185
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        185
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        930,
+        864,
+        86,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        59
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "麻将牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        869,
+        274,
+        78,
+        118
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        118
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo8",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1120,
+        377,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1120,
+        490,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-flower3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        167,
+        719,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r13",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        388,
+        952,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "大王_小",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        702,
+        975,
+        44,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        58
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wind2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        707,
+        689,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1071,
+        548,
+        20,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        20,
+        42
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_不加倍",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1223,
+        1,
+        156,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        156,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1127,
+        84,
+        99,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        97
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_抢地主",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        248,
+        719,
+        124,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        124,
+        43
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "桌子_对称",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        84,
+        612,
+        434
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        612,
+        434
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        455,
+        697,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jsq2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1199,
+        846,
+        29,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        42
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-season4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1111,
+        264,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        958,
+        387,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "房卡底",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        366,
+        520,
+        229,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        229,
+        50
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "金币玻璃底框",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        1,
+        1220,
+        81
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1220,
+        81
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "底_大",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        271,
+        142,
+        185
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        185
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1373,
+        509,
+        27,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        38
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "6",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1290,
+        822,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_绿色_长",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        903,
+        84,
+        222,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        222,
+        93
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1230,
+        881,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_不出",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1363,
+        347,
+        81,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        81,
+        43
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo4",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        536,
+        812,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-season3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1087,
+        183,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_开始游戏",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1228,
+        170,
+        163,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "聊天",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        536,
+        697,
+        113,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        113,
+        56
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "小王_小",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        762,
+        975,
+        44,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        58
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梅花",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1369,
+        942,
+        32,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        31
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins_zhang",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1363,
+        430,
+        45,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        46
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家手牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1387,
+        46,
+        24,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "方片",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        841,
+        571,
+        32,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        31
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_明牌开始",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        287,
+        667,
+        163,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        45
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家杠牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        531,
+        970,
+        52,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        49
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        328,
+        827,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_绿色",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        903,
+        179,
+        182,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        93
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins_dian",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        145,
+        719,
+        13,
+        13
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        13,
+        13
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "红心",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1076,
+        984,
+        32,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        31
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r11",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        988,
+        925,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "底_中",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1233,
+        490,
+        78,
+        103
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        103
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coins_wan",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        822,
+        976,
+        44,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "r3",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1290,
+        882,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "小王_大",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        572,
+        142,
+        185
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        185
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "icon_托管",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        779,
+        834,
+        73,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        74
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        931,
+        803,
+        86,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        59
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-suo5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        877,
+        394,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "提示_不抢",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1313,
+        488,
+        106,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        106,
+        58
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-tong2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1273,
+        262,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1037,
+        743,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

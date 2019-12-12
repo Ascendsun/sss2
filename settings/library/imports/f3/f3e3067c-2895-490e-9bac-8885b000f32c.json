@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "选项框",
+    "texture": "083b9626-963e-476e-a516-c42c2a906691",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1148,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1148,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "闲家推注",
+    "texture": "e3c4f259-a371-4897-a97a-2e65dc50fd6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

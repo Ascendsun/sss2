@@ -1,0 +1,150 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "majiang_select",
+    "_duration": 1.5,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "0d423/e8xNlYzkVMyFYSEp"
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__uuid__": "595RNgi71EdZVRw7dRCRox"
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__uuid__": "87wK+wSxFPD4t9p/YEZXi/"
+              }
+            },
+            {
+              "frame": 1.4833333333333334,
+              "value": {
+                "__uuid__": "d3UP4rqUpIhbTlN7IjJaCd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Z4",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1879,
+        1616,
+        98,
+        32
+      ],
+      "offset": [
+        -15,
+        0
+      ],
+      "originalSize": [
+        128,
+        32
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Z3",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1761,
+        1592,
+        110,
+        32
+      ],
+      "offset": [
+        -9,
+        0
+      ],
+      "originalSize": [
+        128,
+        32
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Z2",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1824,
+        1582,
+        120,
+        32
+      ],
+      "offset": [
+        -4,
+        0
+      ],
+      "originalSize": [
+        128,
+        32
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Z1",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        909,
+        827,
+        128,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        128,
+        32
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

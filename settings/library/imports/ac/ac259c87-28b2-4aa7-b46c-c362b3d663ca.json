@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "局数",
+    "texture": "212215dc-f518-4ae4-930f-424fab773f71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

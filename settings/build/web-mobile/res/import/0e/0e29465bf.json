@@ -1,0 +1,396 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        519,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家出牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1286,
+        942,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "ckongcards",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ckongcards",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "26JJ4HPVJJBr1TTXCK9tqx"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家杠牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "e6i9/CqApH9qc2zxs5avYS"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "328Ac5jGhEt5umZzIMgP+k"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 52,
+        "height": 49
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -17
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家杠牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "e6i9/CqApH9qc2zxs5avYS"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "0cAeuoep5KGoyi9Ue4Coxd"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 52,
+        "height": 49
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -17,
+        "y": -31
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家杠牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "e6i9/CqApH9qc2zxs5avYS"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "2eMKjJTKRHd4brseUhVH9g"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 52,
+        "height": 49
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -17,
+        "y": -62
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "leftcards",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "a7KY4L4Y9HPL21OMTaF3Az"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -17.5,
+        "y": -14
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家出牌",
+      "_parent": {
+        "__id__": 5
+      },
+      "_children": [
+        {
+          "__id__": 7
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "2eZrYOavdMsZhdeeHz0g+V"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "f4Ol1oDPdE+YDVZzqvqVHY"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 49,
+        "height": 49
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan5",
+      "_parent": {
+        "__id__": 6
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "2dBBNCFbFGCZME5dnPXFvl"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "81Lc9gRkZMG7P6j0twDa/Z"
+        },
+        "fileId": "d3/JLj/HtIYaE1MbyT/8Ri"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 4,
+        "y": 7.3
+      },
+      "_scaleX": 0.5,
+      "_scaleY": 0.5,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_rotationX": 90,
+      "_rotationY": 90
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家杠牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        531,
+        970,
+        52,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        49
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

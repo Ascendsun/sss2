@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "绑定",
+    "texture": "a6eb96c8-d117-403b-b5d9-b56093069493",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

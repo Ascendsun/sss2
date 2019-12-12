@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9386de5a-e083-4dba-910b-649bed075d2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "支付宝": {
+      "ver": "1.0.3",
+      "uuid": "372d28b3-756f-4e81-ab97-4595784a0f36",
+      "rawTextureUuid": "9386de5a-e083-4dba-910b-649bed075d2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 95,
+      "height": 95,
+      "rawWidth": 95,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

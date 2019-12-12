@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playway-tab_unselected",
+    "texture": "fa7309d4-59fd-4157-9be0-a516ddb2b162",
+    "atlas": "a273b2af-cfaf-4915-94dc-538be1abf176",
+    "rect": [
+      1186,
+      1428,
+      230,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

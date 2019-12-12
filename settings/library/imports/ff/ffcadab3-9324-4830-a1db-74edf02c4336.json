@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "beimi-bg.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "base": {
+      "__uuid__": "5ec4e92a-74e6-4edb-ae9d-61b1e6fa3913"
+    },
+    "base1": {
+      "__uuid__": "aed64378-e88b-42f5-bc52-a7c742b36896"
+    },
+    "base2": {
+      "__uuid__": "7b79e00a-e2e1-4f4c-90c7-85f0b3622d8c"
+    },
+    "base3": {
+      "__uuid__": "a15025b2-9afe-47a3-934e-90f90a396d16"
+    },
+    "base4": {
+      "__uuid__": "579e5275-9ccb-43e7-b78f-8010d633ef25"
+    }
+  }
+}

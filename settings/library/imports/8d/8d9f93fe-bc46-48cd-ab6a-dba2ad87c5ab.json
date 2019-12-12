@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "8人场1",
+    "texture": "587ef0c1-0eae-4296-8a16-abb8a78effbe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

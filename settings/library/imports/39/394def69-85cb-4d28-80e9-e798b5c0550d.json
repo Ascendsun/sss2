@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "失败角色",
+    "texture": "04fcfdb2-cf9b-44d0-a8bd-2f26658c5792",
+    "atlas": "43b45bf1-27e9-42d1-9c58-62bcad9c0f9f",
+    "rect": [
+      1,
+      434,
+      433,
+      652
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      433,
+      652
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

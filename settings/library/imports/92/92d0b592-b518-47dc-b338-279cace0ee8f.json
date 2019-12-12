@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "现在开具",
+    "texture": "7414db6d-846b-4a7d-a8eb-d821c877ab1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

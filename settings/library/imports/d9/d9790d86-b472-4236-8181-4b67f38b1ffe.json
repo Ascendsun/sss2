@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playway-bg_light_effects",
+    "texture": "fa7309d4-59fd-4157-9be0-a516ddb2b162",
+    "atlas": "a273b2af-cfaf-4915-94dc-538be1abf176",
+    "rect": [
+      1532,
+      708,
+      216,
+      228
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      228
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

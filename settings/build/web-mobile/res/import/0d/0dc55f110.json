@@ -1,0 +1,119 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "对家手牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        96,
+        951,
+        41,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        62
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "partnercards",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "partnercards",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "92a2dUdJFBDKb8JTWhMyGZu",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7c+SA9jVhKgoOL7x4pOFjb"
+        },
+        "fileId": "f6qKciw65IQawQysWY70Ud"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -228
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-对家手牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "7comQhPzhCLbYgGiZTsOwm"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7c+SA9jVhKgoOL7x4pOFjb"
+        },
+        "fileId": "942HkE3GVNlIAzI4I9S/ui"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 62
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+]

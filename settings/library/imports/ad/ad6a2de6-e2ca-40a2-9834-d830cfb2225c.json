@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "菜单底框",
+    "texture": "39a670ee-bc8b-4525-ab90-008235f6f81b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      611
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      611
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

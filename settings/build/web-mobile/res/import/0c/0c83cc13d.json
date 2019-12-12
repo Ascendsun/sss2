@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "gang_ming",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gang_ming",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_defaultClip": {
+            "__uuid__": "7bLsPdgd9DuYAHER2vP/Tq"
+          },
+          "_clips": [
+            {
+              "__uuid__": "7bLsPdgd9DuYAHER2vP/Tq"
+            }
+          ],
+          "playOnLoad": true
+        },
+        {
+          "__type__": "ed85cO6wFBO1oa4VrDfi3g7",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "79AquGiZJAO7oyIzwvsqSk"
+        },
+        "fileId": "11I8wQQp5NfYnkFEy1Glh0"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "#血流-effect_A",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "d9sOZjR4JD0LEKWMQ2094P"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "79AquGiZJAO7oyIzwvsqSk"
+        },
+        "fileId": "67X+QU3P5N8K6YehT33kqY"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 164,
+        "height": 83
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_A",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        132,
+        1668,
+        164,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        164,
+        83
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

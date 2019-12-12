@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "分享",
+    "texture": "30bbe1cc-abc8-4ae7-9564-d90c0b7f2249",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      59,
+      73
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      65,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

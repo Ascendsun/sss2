@@ -1,0 +1,29 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [],
+  "design-resolution-height": 720,
+  "design-resolution-width": 1280,
+  "excluded-modules": [
+    "Physics",
+    "3D",
+    "3D Primitive"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [],
+  "last-module-event-record-time": 1572171283271,
+  "simulator-orientation": false,
+  "simulator-resolution": {},
+  "start-scene": "a2c45492-4922-40de-aeb8-6c46a89e6599",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": true
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小框",
+    "texture": "b8819236-03ad-44cf-a79a-85f7681e0561",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      394,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      394,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

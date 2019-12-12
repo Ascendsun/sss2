@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加入俱乐部",
+    "texture": "a92d6995-8016-4760-acd4-90f721d783ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

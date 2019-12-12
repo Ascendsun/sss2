@@ -1,0 +1,691 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "自己出牌对家出牌对家碰牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        228,
+        950,
+        46,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan2",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1071,
+        652,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家出牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1286,
+        942,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "ckongcards",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ckongcards",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 11
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "0fe67JecMpLz5GGCrRtpy0D",
+          "node": {
+            "__id__": 1
+          },
+          "atlas": {
+            "__uuid__": "99FzQ8DbtCe5KcDgHw62f6"
+          },
+          "beimi0": {
+            "__uuid__": "99FzQ8DbtCe5KcDgHw62f6"
+          },
+          "card_one": {
+            "__id__": 4
+          },
+          "card_two": {
+            "__id__": 7
+          },
+          "card_three": {
+            "__id__": 10
+          },
+          "card_four": {
+            "__id__": 13
+          },
+          "card_last": {
+            "__id__": 8
+          },
+          "target": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "11x+E8sRJABrtEFk3lSeG0"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 140,
+        "height": 80
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 80,
+        "y": -40
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "current",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "0bak09Dh5FmYCT/Yyxkxs9"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -57,
+        "y": 4
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-自己出牌对家出牌对家碰牌",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 4
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "13uidhVE9LJLuyWEbApDw8"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "86N2fL6vhLs5n0wrHGxwnD"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 46,
+        "height": 72
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 2,
+        "y": -1
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan2",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "20Q0wG3jNCGYDNCiopfzkw"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "0b6RzNEUpKGbxGWoxzd5SZ"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 11
+      },
+      "_scaleX": 0.5,
+      "_scaleY": 0.5,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "current",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "c84qohUw1MaodNRge55Cfg"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 67,
+        "y": -39
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-自己出牌对家出牌对家碰牌",
+      "_parent": {
+        "__id__": 5
+      },
+      "_children": [
+        {
+          "__id__": 7
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "13uidhVE9LJLuyWEbApDw8"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "85XHhhgcpNwqY/HnPLA9LK"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 46,
+        "height": 72
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -79,
+        "y": 41
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan2",
+      "_parent": {
+        "__id__": 6
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "20Q0wG3jNCGYDNCiopfzkw"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "d5GgbjpDBEiab9rZi2XfUy"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 11
+      },
+      "_scaleX": 0.5,
+      "_scaleY": 0.5,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "rightcards",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 9
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "81Kw0Tm+1GyKf1v7O3+Wd/"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 33,
+        "y": 22
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家出牌",
+      "_parent": {
+        "__id__": 8
+      },
+      "_children": [
+        {
+          "__id__": 10
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "2eZrYOavdMsZhdeeHz0g+V"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "3bqt8EKYxN5ouiaovwszAh"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 49,
+        "height": 49
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan2",
+      "_parent": {
+        "__id__": 9
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "20Q0wG3jNCGYDNCiopfzkw"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "093IhzoD5EfZ9GBFYN2y8/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -5,
+        "y": 5
+      },
+      "_scaleX": 0.5,
+      "_scaleY": 0.5,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_rotationX": -90,
+      "_rotationY": -90
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "rightcards",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 12
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "a2sLZUbyxIX590a+KYPv5z"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 33,
+        "y": -10
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家出牌",
+      "_parent": {
+        "__id__": 11
+      },
+      "_children": [
+        {
+          "__id__": 13
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 12
+          },
+          "_spriteFrame": {
+            "__uuid__": "2eZrYOavdMsZhdeeHz0g+V"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "60AFn3189DQKVDhwBM/LN5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 49,
+        "height": 49
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan2",
+      "_parent": {
+        "__id__": 12
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "20Q0wG3jNCGYDNCiopfzkw"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d3uD0SQR5MWot891SHulvT"
+        },
+        "fileId": "88tYFZG+xIwbjhfb8kptko"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -5,
+        "y": 5
+      },
+      "_scaleX": 0.5,
+      "_scaleY": 0.5,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_rotationX": -90,
+      "_rotationY": -90
+    }
+  ]
+]

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duihao",
+    "texture": "0fbf0b81-0932-4dd1-9585-50844bf60ea7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

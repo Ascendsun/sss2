@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fuwufei",
+    "texture": "21788464-1612-45a2-8296-add3961435e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

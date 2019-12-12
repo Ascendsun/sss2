@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "刮刮乐",
+    "texture": "64432120-d0a4-463d-b517-41f64ea8dbfd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

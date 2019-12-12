@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beimi-bg",
+    "texture": "56ClspfXZJi7klEA4KDr0S",
+    "rect": [
+      0,
+      0,
+      1746,
+      1541
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1746,
+      1541
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

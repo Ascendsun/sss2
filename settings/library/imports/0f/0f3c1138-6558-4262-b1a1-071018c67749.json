@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "每日签到1",
+    "texture": "ad8113c2-cad0-4be2-9d33-4420e96048e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      321,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      321,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

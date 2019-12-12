@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "牌局结束-base_winner",
+    "texture": "04fcfdb2-cf9b-44d0-a8bd-2f26658c5792",
+    "atlas": "43b45bf1-27e9-42d1-9c58-62bcad9c0f9f",
+    "rect": [
+      1424,
+      843,
+      270,
+      448
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      448
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

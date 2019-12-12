@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "灰色框",
+    "texture": "58fa7dbc-5e06-4c9a-8589-99871864d5ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      334,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      334,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

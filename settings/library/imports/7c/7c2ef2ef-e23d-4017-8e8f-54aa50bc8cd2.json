@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fuwufei11",
+    "texture": "dd6fff7e-5ac8-4125-a955-fb236f7051bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      441,
+      204
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      441,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

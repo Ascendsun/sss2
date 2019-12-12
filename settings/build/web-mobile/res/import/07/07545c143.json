@@ -1,0 +1,212 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "斗地主",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1221,
+        1118,
+        353,
+        127
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        353,
+        127
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "roomplayway",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "roomplayway",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "3086d4/qp5Fs4lHZ22cK68H",
+          "node": {
+            "__id__": 1
+          },
+          "atlas": {
+            "__uuid__": "a2c7Kvz69JFZTcU4vhq/F2"
+          },
+          "gametype": {
+            "__id__": 2
+          },
+          "roomoption": {
+            "__uuid__": "f4i2tswlNAxJa2dFT7QMb5"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d0rjFO8shBFr6VO61EIa/K"
+        },
+        "fileId": "1bVX+f6ltJ65C1/XhjAH0m"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 360,
+        "height": 140
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gametype",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "ceXZl2yR5DLb96tHRuJDVt"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 2
+          },
+          "zoomScale": 1.1,
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 3
+              },
+              "_componentId": "214d0MHSC5DcoE4sSZlfyz2",
+              "handler": "onClick"
+            }
+          ],
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d0rjFO8shBFr6VO61EIa/K"
+        },
+        "fileId": "d5zwxWUAdBp6uRnfXToqQA"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 353,
+        "height": 127
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "BeiMiRoomOption",
+      "_parent": {
+        "__id__": 4
+      },
+      "_components": [
+        {
+          "__type__": "214d0MHSC5DcoE4sSZlfyz2",
+          "node": {
+            "__id__": 3
+          },
+          "playway": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d0rjFO8shBFr6VO61EIa/K"
+        },
+        "fileId": "b7aWaVJRJEcoTgJG0UKzme"
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "script",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d0rjFO8shBFr6VO61EIa/K"
+        },
+        "fileId": "c2MdloXtdH2L6skMhZYQm/"
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+]

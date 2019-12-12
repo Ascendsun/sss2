@@ -1,0 +1,445 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "用户栏-默认头像",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1793,
+        1801,
+        63,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "用户栏-金币",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        465,
+        930,
+        41,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        40
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "rankitem",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "rankitem",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "ffHCyMbwlFEr7hIJ0sseY+"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "a37evFySFL2a2IPwpEmhyV"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 339.4,
+        "height": 70.4
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 1.4,
+        "y": -37.2
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "用户栏-默认头像",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "4ag4o3en5DUYtLNQUR/QAt"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "7epfm6Z+lOYLAKp7o0cObe"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 55,
+        "height": 55
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -128.7
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 3
+          },
+          "_useOriginalSize": false,
+          "_string": "Ao怡baby",
+          "_N$string": "Ao怡baby",
+          "_fontSize": 24,
+          "_lineHeight": 24,
+          "_N$file": {
+            "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+          },
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 3
+          },
+          "alignMode": 0,
+          "_alignFlags": 8,
+          "_left": 75
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "9eab6AVoBMMJU5B6/RznEt"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 96,
+        "height": 24
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -46.69999999999999,
+        "y": 18.1
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "用户栏-金币",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "b4uenmiS9L1o1QD5Ng8lrF"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "f2ENrJzvBMJLYoKLxLdwg7"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 30,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -77.5,
+        "y": -18.8
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "frend_goldcoins",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 5
+          },
+          "_useOriginalSize": false,
+          "_string": "1234万",
+          "_N$string": "1234万",
+          "_fontSize": 22,
+          "_lineHeight": 22,
+          "_N$file": {
+            "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+          },
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "a9PUPP2QlFH5k1Q2mAsFPM"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 254,
+        "g": 222,
+        "b": 54
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 66,
+        "height": 22
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -23.7,
+        "y": -15.1
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "排行榜-送金币",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "e0sWutpaBFYYAC5sRE5o3Z"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 6
+          },
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 6
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "b6wdDGqyRBorQRzbZeBeaS"
+        },
+        "fileId": "632IlO/U1MVoiA+07NVjXn"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 92.9,
+        "height": 42.5
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 104.6,
+        "y": -3.4
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "排行榜-送金币",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1344,
+        1539,
+        119,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        119,
+        52
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "排行榜-玩家底",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1369,
+        890,
+        332,
+        75
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        332,
+        75
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

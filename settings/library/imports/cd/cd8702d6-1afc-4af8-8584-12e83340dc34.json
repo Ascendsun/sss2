@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "背板cc",
+    "texture": "8dc50fdf-ee22-49bd-bc3f-53be6a5024ac",
+    "atlas": "",
+    "rect": [
+      319,
+      146,
+      1369,
+      891
+    ],
+    "offset": [
+      -76.5,
+      -51.5
+    ],
+    "originalSize": [
+      2160,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

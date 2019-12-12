@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaoxi",
+    "texture": "4fe2b699-da38-40af-aacb-8ee6481fe03e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      322,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

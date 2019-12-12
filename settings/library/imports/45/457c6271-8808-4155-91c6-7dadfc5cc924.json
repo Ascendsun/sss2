@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "微信登陆1",
+    "texture": "346c3dad-3659-474b-9ed6-4666fc3260d0",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      301,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      303,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

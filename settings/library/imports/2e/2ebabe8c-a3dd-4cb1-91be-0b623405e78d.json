@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "选中状态",
+    "texture": "859c4397-2664-41cd-84cd-0c86c8364aad",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      44,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "6人场1",
+    "texture": "150e3da3-8350-4638-9b8e-11b6c8824fb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

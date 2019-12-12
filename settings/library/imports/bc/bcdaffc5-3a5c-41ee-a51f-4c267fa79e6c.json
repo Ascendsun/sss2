@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钻石",
+    "texture": "0ac25842-b3e4-457a-aeac-7cfa86a00aa9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

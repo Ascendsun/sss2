@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "充值记录",
+    "texture": "6add5108-6034-43fb-8601-b251d4472e0c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      253,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

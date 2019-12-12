@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "战绩1",
+    "texture": "30126ae3-3f51-426d-8b0d-1130534863ba",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      62,
+      77
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      65,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

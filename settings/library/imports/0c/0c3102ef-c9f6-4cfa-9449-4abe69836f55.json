@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "切换账号",
+    "texture": "c75d53c2-a03c-4666-9f88-fb9b481ab25f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

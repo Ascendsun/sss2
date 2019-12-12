@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "密码左框",
+    "texture": "8841b63a-2e6f-464c-b9f0-2ec2888ea2a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

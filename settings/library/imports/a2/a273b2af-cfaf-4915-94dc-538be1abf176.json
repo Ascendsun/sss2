@@ -1,0 +1,434 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "beimi-image-other.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "4": {
+      "__uuid__": "019a354d-18a9-4436-914f-26c95cd8b9eb"
+    },
+    "5": {
+      "__uuid__": "1d4a062f-34ea-4de1-a9cf-aae2e0f2376f"
+    },
+    "6": {
+      "__uuid__": "b88a2664-cc3c-499a-870d-cfd82911976a"
+    },
+    "7": {
+      "__uuid__": "253332ae-d11c-49fe-8060-84bc6649812e"
+    },
+    "8": {
+      "__uuid__": "3d9a39ac-11bf-436f-a3e4-0d0100034864"
+    },
+    "9": {
+      "__uuid__": "bdd00e71-9d85-4fa9-b213-1bc718dc545d"
+    },
+    "LOGO2": {
+      "__uuid__": "1e72d114-afa5-4a8c-aa54-302f93c71ee0"
+    },
+    "account": {
+      "__uuid__": "26f36deb-13f2-4c70-9505-7cc4d5fbaa63"
+    },
+    "alert": {
+      "__uuid__": "cebcf73d-7e4d-4fea-b675-9e480602ef7b"
+    },
+    "banker": {
+      "__uuid__": "be987294-95c5-43fc-b6d0-d02e30ba863d"
+    },
+    "base": {
+      "__uuid__": "0b08f701-2a04-45e3-a1a6-3b99f4cd6055"
+    },
+    "create_room": {
+      "__uuid__": "f2818a0f-44eb-4b46-a01b-332f8b1f2a6a"
+    },
+    "guestbtn": {
+      "__uuid__": "026dec79-6bcd-470b-8d70-8de2a9f2570c"
+    },
+    "input_bg": {
+      "__uuid__": "c7f8ed4b-d288-4761-9bc0-00cb389d243e"
+    },
+    "join_room": {
+      "__uuid__": "d5036410-8603-4340-b2c4-797263d18c78"
+    },
+    "login": {
+      "__uuid__": "dfefb0fe-479e-4ee2-a821-2e3b3ee594a2"
+    },
+    "loginbtn": {
+      "__uuid__": "b2eca323-e8ee-4a53-9a13-26977162d37f"
+    },
+    "logo": {
+      "__uuid__": "0a054fdf-0e9d-41d7-bc7e-db63e6e8cbbc"
+    },
+    "mask": {
+      "__uuid__": "c06d30e0-c19a-4a9d-b623-962d392e9453"
+    },
+    "myself": {
+      "__uuid__": "fda1d862-8529-4e7d-8b9d-93aaf5df6da7"
+    },
+    "number": {
+      "__uuid__": "6a2518c8-dd9c-4b36-be8e-239632494937"
+    },
+    "password": {
+      "__uuid__": "f2a87352-72ac-465a-b648-ab626f2b71ec"
+    },
+    "playway-bg_light_effects": {
+      "__uuid__": "d9790d86-b472-4236-8181-4b67f38b1ffe"
+    },
+    "playway-bg_playway": {
+      "__uuid__": "af076d28-ffdb-404e-819b-4510b881156a"
+    },
+    "playway-gongao_text_bg": {
+      "__uuid__": "381b2972-81e1-4673-be40-1571c1814436"
+    },
+    "playway-options_bg": {
+      "__uuid__": "d42a7af7-3950-41d6-af12-613ad34bc03e"
+    },
+    "playway-options_selected": {
+      "__uuid__": "cad9ebb2-7a33-4bd2-8c2a-2ba055ee9a43"
+    },
+    "playway-options_unselected": {
+      "__uuid__": "a4c35978-6224-4854-ae1d-4102f227a209"
+    },
+    "playway-playway_selected": {
+      "__uuid__": "4020395c-b6c7-42ec-a713-71c6c3fa6d98"
+    },
+    "playway-playway_unselected": {
+      "__uuid__": "30c1c8d0-f89c-4692-8831-d8f01736aa98"
+    },
+    "playway-record_selected": {
+      "__uuid__": "2c2a76cb-3b8e-4cc1-a46d-62afcdf3584a"
+    },
+    "playway-record_unselected": {
+      "__uuid__": "c8e28861-d166-48ac-9b1a-bd5d25d4a55e"
+    },
+    "playway-tab_bg": {
+      "__uuid__": "6f82352e-4238-466c-99cd-dd36390630d3"
+    },
+    "playway-tab_selected": {
+      "__uuid__": "ef80d2fe-1d11-4645-9533-2c6f5111ce06"
+    },
+    "playway-tab_unselected": {
+      "__uuid__": "a287e881-1fd9-4522-91b1-8579822416a7"
+    },
+    "playway-text_title": {
+      "__uuid__": "bfd006eb-d42e-4b47-bfd5-2c9b4efc2262"
+    },
+    "roomtip": {
+      "__uuid__": "f0b0adcb-0920-4f75-b645-154bb40bec6f"
+    },
+    "summary-你赢了": {
+      "__uuid__": "3b06e8f2-0ad6-49a3-8a5d-9533458a1a92"
+    },
+    "summary-你输了": {
+      "__uuid__": "2f420693-5a7d-4cc1-973f-f082c50df751"
+    },
+    "summary-其他头像外框50x50": {
+      "__uuid__": "e0b492d3-0056-47bf-b2cb-193677c03903"
+    },
+    "summary-其他玩家底框": {
+      "__uuid__": "bd0b1f96-61cf-4465-9e33-248290fe16c4"
+    },
+    "summary-加倍小": {
+      "__uuid__": "13fce6ce-64ce-4125-afd3-ed99ad02da56"
+    },
+    "summary-失败角色": {
+      "__uuid__": "f472ef4a-674d-4f25-a9d7-b25a809c8197"
+    },
+    "summary-自己头像外框74x74": {
+      "__uuid__": "4ce8fae3-402f-47c1-bcc8-b11e68c77ad0"
+    },
+    "summary-自己灰色底框": {
+      "__uuid__": "11699a8f-f139-4197-b25e-1db9e9a35193"
+    },
+    "summary-自己金色底框": {
+      "__uuid__": "4a51bd0c-788f-4283-9fd6-6eafca73822b"
+    },
+    "timer_char": {
+      "__uuid__": "13ed1ff0-7614-4de2-bdce-792fd321a178"
+    },
+    "weixinaccount": {
+      "__uuid__": "15ab0c79-6051-4bad-b781-289bcf181b66"
+    },
+    "不洗牌": {
+      "__uuid__": "538fef69-ea8b-4bb9-9914-fed7c540ae6e"
+    },
+    "不要": {
+      "__uuid__": "db1382cc-098e-4cac-a4cb-501534a6752b"
+    },
+    "你赢了": {
+      "__uuid__": "a9c4ae5f-fb3e-4690-aae3-584fe81ef0fb"
+    },
+    "你输了": {
+      "__uuid__": "55f8612c-daae-4532-bbdc-a3ad60b68381"
+    },
+    "其他头像外框50x50": {
+      "__uuid__": "432f020a-f8a2-4c1b-98f6-eed9845d3c8b"
+    },
+    "其他玩家底框": {
+      "__uuid__": "f69d147b-0dfe-4056-8a8b-cee819b6eeb1"
+    },
+    "创建房间_选择游戏类型": {
+      "__uuid__": "7cfbf0ab-41c7-401e-8765-e703c6a39d49"
+    },
+    "加倍小": {
+      "__uuid__": "42847714-3b66-48d4-a9c0-6cc6cc7a4f94"
+    },
+    "动作提示": {
+      "__uuid__": "27ca871c-3122-49ad-a119-735eb82c8802"
+    },
+    "失败角色": {
+      "__uuid__": "d4e6c568-ffcb-4438-941b-da26b7c194f4"
+    },
+    "广东麻将": {
+      "__uuid__": "bf238eb0-aa2c-4350-aeae-97bfc9941bb3"
+    },
+    "底牌": {
+      "__uuid__": "0196a7c4-b238-452d-bea5-b965cef9b3c1"
+    },
+    "德州扑克": {
+      "__uuid__": "046bf67e-e808-4b0f-9c04-8a2486120e27"
+    },
+    "房间-#光效复用切图bg_light_effects": {
+      "__uuid__": "ec1314a6-4c74-4d62-8493-d87fe842c875"
+    },
+    "房间-#底板复用切图bg": {
+      "__uuid__": "4187b054-5a58-47cd-82a7-1b2865dd58cb"
+    },
+    "房间-#底板复用切图text_bg": {
+      "__uuid__": "4726880f-b0c1-47fe-a5e8-8b0a1b7666ac"
+    },
+    "房间-#按钮复用切图Btn_": {
+      "__uuid__": "fae59119-6c18-4947-9676-8504114cd59a"
+    },
+    "房间-Btn_text_creat": {
+      "__uuid__": "38d1aea2-116e-40f2-9843-d26ed844a5b1"
+    },
+    "房间-Btn_text_free": {
+      "__uuid__": "d2962cdb-ba89-45d7-b358-3f836ab34cfc"
+    },
+    "房间-bg_options": {
+      "__uuid__": "e37d0c30-9754-45ef-a0f4-e2fc130832be"
+    },
+    "房间-bg_tab": {
+      "__uuid__": "14e26016-b958-44d2-ac86-99a5d65c1f15"
+    },
+    "房间-icon_description": {
+      "__uuid__": "c2eb6559-2d73-4bb4-968a-659a1c64b220"
+    },
+    "房间-icon_roomcard": {
+      "__uuid__": "bc20cdf8-06b7-487d-bcb7-f659d928df9a"
+    },
+    "房间-icon_roomcard_free": {
+      "__uuid__": "7d966795-488d-465e-a49a-011bebfcda39"
+    },
+    "房间-icon_roomcard_free2": {
+      "__uuid__": "f886c254-1a4a-4199-8654-02c7777be107"
+    },
+    "房间-icon_tips": {
+      "__uuid__": "3a9c066b-d2be-41a8-9a92-9a9acb2985d3"
+    },
+    "房间-options_selected": {
+      "__uuid__": "9e78508d-964d-4a23-a6dd-b918998290b7"
+    },
+    "房间-options_unselected": {
+      "__uuid__": "4ef53919-e3be-4ccd-a0cc-7ae4b3d20b40"
+    },
+    "房间-tab_selected": {
+      "__uuid__": "af22b0d3-8e52-4ff2-a551-8134977a60f1"
+    },
+    "房间-tab_selected_tuidaohu": {
+      "__uuid__": "c61e7223-f468-45c8-a954-52cb7b01775d"
+    },
+    "房间-tab_selected_xueliu": {
+      "__uuid__": "4d875cdc-8603-46a7-a12e-d590821a668b"
+    },
+    "房间-tab_selected_xuezhan": {
+      "__uuid__": "13f8c47e-e4a8-4ccf-a959-f4eff86fcb6b"
+    },
+    "房间-tab_unselected": {
+      "__uuid__": "96b5f295-02b0-4ea9-a30c-5811a8390f8c"
+    },
+    "房间-tab_unselected_tuidaohu": {
+      "__uuid__": "b2cadb19-1c11-4209-96fc-d0aff59e9746"
+    },
+    "房间-tab_unselected_xueliu": {
+      "__uuid__": "f1348e2d-a79d-41d5-9df0-3875e6fd3e2a"
+    },
+    "房间-tab_unselected_xuezhan": {
+      "__uuid__": "70f518a0-f5a2-4717-a452-947ef39ef31a"
+    },
+    "房间-十三水": {
+      "__uuid__": "c47064c0-a15d-4151-b781-bc075a6f74d3"
+    },
+    "房间-广东麻将": {
+      "__uuid__": "6bab6dfb-c045-45e9-894e-a837dadd08fa"
+    },
+    "房间-德州扑克": {
+      "__uuid__": "cf1c60b6-f3b4-43f4-b598-c68460f6bbb0"
+    },
+    "房间-经典斗地主": {
+      "__uuid__": "b2fc544b-c29d-4268-944f-23397b9d6482"
+    },
+    "房间-诈金花": {
+      "__uuid__": "4f4ce4cf-549d-43ae-b949-6654293f8644"
+    },
+    "房间-跑胡子": {
+      "__uuid__": "0db61054-83e4-4ffb-9bef-e57eeae9b03a"
+    },
+    "房间-邀请好友": {
+      "__uuid__": "46ae3937-d0ab-4325-93c1-35cdfc75f723"
+    },
+    "房间-邀请好友BG": {
+      "__uuid__": "b964c110-970b-4063-b7df-070bd5aaf5c7"
+    },
+    "房间-麻将": {
+      "__uuid__": "034c82bd-5c37-42a6-b73c-062a3bbf47a5"
+    },
+    "数字-+": {
+      "__uuid__": "0d9111a5-e2f1-4d24-84ec-ce9715ce671a"
+    },
+    "数字--": {
+      "__uuid__": "455b18b0-7331-4c76-8c67-5d2bb2f44ec5"
+    },
+    "数字-0": {
+      "__uuid__": "94e78646-6cb1-4588-a616-d64a3c61de88"
+    },
+    "数字-1": {
+      "__uuid__": "fef34c1c-eff7-4c73-8aed-5ffa3d9df11d"
+    },
+    "数字-2": {
+      "__uuid__": "7c91613a-3091-45d4-89ed-35fd8194d169"
+    },
+    "数字-3": {
+      "__uuid__": "20590e35-2cec-4e50-90a3-9faf8daac8b9"
+    },
+    "数字-4": {
+      "__uuid__": "982aac8f-9c2c-459b-a8ae-9d965cccca20"
+    },
+    "数字-5": {
+      "__uuid__": "d62f0091-e054-431d-963d-5cc75610b78d"
+    },
+    "数字-6": {
+      "__uuid__": "21661535-0536-44bc-9c05-de8255c1a51d"
+    },
+    "数字-7": {
+      "__uuid__": "9ef243e3-34d2-4183-971a-683e049017a0"
+    },
+    "数字-8": {
+      "__uuid__": "d87493e0-6acc-4ae2-ab44-a2fb63812893"
+    },
+    "数字-9": {
+      "__uuid__": "b187230e-61e4-409d-afe2-bb44bd6713b6"
+    },
+    "数字-dian": {
+      "__uuid__": "b53332f1-e923-4d99-9377-61161accd762"
+    },
+    "数字-qian": {
+      "__uuid__": "1e12b5c3-ca16-47e9-8290-a9ab81d85fc3"
+    },
+    "数字-wan": {
+      "__uuid__": "4fcbf707-0123-4873-96cd-cc944268aae4"
+    },
+    "数字-y_+": {
+      "__uuid__": "75f3899c-fe50-403f-9d92-161d73618b7f"
+    },
+    "数字-y_-": {
+      "__uuid__": "491e5e5f-0d83-4db1-9a34-2ed40d2575aa"
+    },
+    "数字-y_0": {
+      "__uuid__": "eb22e003-3fd3-4118-acbe-1209340aaa34"
+    },
+    "数字-y_1": {
+      "__uuid__": "cd8ab191-e697-48cb-8448-557686dc935c"
+    },
+    "数字-y_2": {
+      "__uuid__": "76fba00c-9868-418c-9775-467a984f24af"
+    },
+    "数字-y_3": {
+      "__uuid__": "49964a24-b5f7-4956-a0c1-7e3ddd2bb5ed"
+    },
+    "数字-y_4": {
+      "__uuid__": "98d3b494-9673-4f1f-b7d1-7b23c3a2af10"
+    },
+    "数字-y_5": {
+      "__uuid__": "e111009d-8081-415d-baea-72173dc689dc"
+    },
+    "数字-y_6": {
+      "__uuid__": "cf9a4544-07d0-404e-8fa0-7a07e735d5c7"
+    },
+    "数字-y_7": {
+      "__uuid__": "affb7606-7c1e-488d-9e56-7bf1a6822f62"
+    },
+    "数字-y_8": {
+      "__uuid__": "cd87b4b8-55fc-428a-b237-57cfd88d17b8"
+    },
+    "数字-y_9": {
+      "__uuid__": "f06bb7ca-c96a-419d-950f-63fffda5fc82"
+    },
+    "数字-y_dian": {
+      "__uuid__": "640aed7f-1ad3-485d-b3fb-f1f6dd3944b6"
+    },
+    "数字-y_qian": {
+      "__uuid__": "276f58e0-76db-45db-b797-e9c5694125bb"
+    },
+    "数字-y_wan": {
+      "__uuid__": "d7c480d6-fdf6-44de-9d5a-09334a2e3de7"
+    },
+    "斗地主-房间模式": {
+      "__uuid__": "72f1eeb5-9773-4146-b89e-5f74fa98c1fe"
+    },
+    "斗地主-癞子玩法": {
+      "__uuid__": "a1e2b1f7-d99e-48f9-a15f-4dc30c794420"
+    },
+    "斗地主": {
+      "__uuid__": "ce5d9976-c91e-432d-bf7a-b4746e24356d"
+    },
+    "游客": {
+      "__uuid__": "27455ca7-65e2-45b7-aebb-d8135cf696b1"
+    },
+    "牌-大": {
+      "__uuid__": "4fdfa61a-5522-49ed-b3dd-ba76630d9acc"
+    },
+    "玩法-经典斗地主": {
+      "__uuid__": "2add3f6a-8c75-41e4-82fa-8569d3bcc328"
+    },
+    "玩法-金币": {
+      "__uuid__": "195f7de7-968e-45a0-a415-1a7af8c827f7"
+    },
+    "癞子玩法": {
+      "__uuid__": "242785d1-ad91-4d79-ae75-29cb82edd705"
+    },
+    "经典斗地主": {
+      "__uuid__": "ebac6936-20de-4683-a94e-71f982cfa048"
+    },
+    "背-小": {
+      "__uuid__": "b177a081-41c2-4fbb-bbfa-8d084752a390"
+    },
+    "自己头像外框74x74": {
+      "__uuid__": "44dc7ac0-3a69-43ee-82c6-ec40cf28e5d9"
+    },
+    "自己灰色底框": {
+      "__uuid__": "0d8595f5-f9a8-48b6-b498-55714a54450a"
+    },
+    "自己金色底框": {
+      "__uuid__": "4e676971-5f96-4f1d-8e61-41d08661b65c"
+    },
+    "血战麻将": {
+      "__uuid__": "e5d2dabb-ac9d-437b-b596-5ccd0a76ae78"
+    },
+    "要不起": {
+      "__uuid__": "d99f21fc-89b4-4ed2-bd38-29fcd9c64727"
+    },
+    "请输入房间号": {
+      "__uuid__": "8e94a4d1-61bd-44a9-a899-f5ba845c6554"
+    },
+    "邀请在线好友": {
+      "__uuid__": "4e92fd7a-0dff-4c5b-8d45-c86349d5e484"
+    },
+    "邀请好友": {
+      "__uuid__": "bc43b382-a6dc-43b0-8ac8-2bbb3026f612"
+    },
+    "邀请微信好友": {
+      "__uuid__": "30839b0f-456f-4fca-bb95-6a21965f2600"
+    }
+  }
+}

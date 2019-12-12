@@ -1,0 +1,903 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "inviteplayer",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "invite",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 12
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cfbb8w3UbVOA4QUUKGuCXS8",
+          "node": {
+            "__id__": 1
+          },
+          "qrgraphics": {
+            "__id__": 11
+          },
+          "roomid": {
+            "__id__": 9
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "d7PHFmD7hKIZ2FNt8zv0dP"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "房间-邀请好友",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "46rjk30KtDJZPBNc38dfcj"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 2
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 3
+              },
+              "component": "DialogClick",
+              "handler": "onClick"
+            }
+          ],
+          "_N$target": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "bal0KqKC1E0KrnrvAKZL6i"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 600,
+        "height": 437
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "DialogClick",
+      "_parent": {
+        "__id__": 4
+      },
+      "_components": [
+        {
+          "__type__": "a07b3XLiwVBk5RFzHmd50Gx",
+          "node": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "5dBvLNi/JEfpBX0BSi3NdW"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "script",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "7eLzxzO2VA2rZC6BM2WXLw"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "背景颜色",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "a2MjXRFdtLlYQ5ouAFv/+R"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "1a0f4zwu2VOapqEJkWXIF0R"
+      },
+      "_opacity": 15,
+      "_color": {
+        "__type__": "cc.Color"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 578,
+        "height": 275
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 19
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邀请好友",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "bcQ7OCptxDsIrIK7swJvYS"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "7bR7thDPVID7pGrCN8QHds"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 136,
+        "height": 38
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 185
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "invitewin",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "49/oVtKsNEKLu6Gthlu2IF"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 210,
+        "height": 210
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 6
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__id__": 9
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "4d0uQU43NDPLkfZvONPUB8"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 152,
+        "g": 65,
+        "b": 41
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 198,
+        "height": 22
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -4,
+        "y": 129
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 8
+      },
+      "_useOriginalSize": false,
+      "_string": "让好友扫描加入房间",
+      "_N$string": "让好友扫描加入房间",
+      "_fontSize": 22,
+      "_lineHeight": 22,
+      "_N$file": {
+        "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+      },
+      "_isSystemFontUsed": false,
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "sprite_splash",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "a2MjXRFdtLlYQ5ouAFv/+R"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "1a0f4zwu2VOapqEJkWXIF0R"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 210,
+        "height": 210
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "qrcode",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Graphics",
+          "node": {
+            "__id__": 11
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "71ZXS5IwlMFbxGNRNHUQdD"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 200,
+        "height": 200
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "button",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 13
+        },
+        {
+          "__id__": 15
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "7bKwwkY09ASZ5oEoyP3d+A"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "按钮_绿色_长",
+      "_parent": {
+        "__id__": 12
+      },
+      "_children": [
+        {
+          "__id__": 14
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "cdEsmvLUhL244bSEVNoQNL"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 13
+          },
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 13
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "70iHl0LKxFxbAeK0VqNZWy"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 222,
+        "height": 93
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 100,
+        "y": -153
+      },
+      "_scaleX": 0.8,
+      "_scaleY": 0.8,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邀请微信好友",
+      "_parent": {
+        "__id__": 13
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 14
+          },
+          "_spriteFrame": {
+            "__uuid__": "30g5sPRW9PyruVaiGWXyYA"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "63DSjVarJB5KnWely6V7od"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 185,
+        "height": 35
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "按钮_橙色_长",
+      "_parent": {
+        "__id__": 12
+      },
+      "_children": [
+        {
+          "__id__": 16
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 15
+          },
+          "_spriteFrame": {
+            "__uuid__": "24SoB2g0hOG4IGB5DO8fOE"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 15
+          },
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 15
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "19nHAolG5B7K/wIO5ZePr0"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 222,
+        "height": 93
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -100,
+        "y": -153
+      },
+      "_scaleX": 0.8,
+      "_scaleY": 0.8,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邀请在线好友",
+      "_parent": {
+        "__id__": 15
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 16
+          },
+          "_spriteFrame": {
+            "__uuid__": "4ekv16Df9MW41FyGNJ1eSE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0d0EbZRjtBSYrq0S+0ubgh"
+        },
+        "fileId": "a6M6JBapFNSroel9nixLh5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 185,
+        "height": 35
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_橙色_长",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1,
+        759,
+        222,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        222,
+        93
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邀请微信好友",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1576,
+        1234,
+        185,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        185,
+        35
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "房间-邀请好友",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1165,
+        1,
+        600,
+        437
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        600,
+        437
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邀请在线好友",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        995,
+        1602,
+        185,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        185,
+        35
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_sprite_splash",
+      "texture": "02delMVqdBD70a/HSD99FK",
+      "rect": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        2
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邀请好友",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1768,
+        1347,
+        136,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        136,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮_绿色_长",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        903,
+        84,
+        222,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        222,
+        93
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

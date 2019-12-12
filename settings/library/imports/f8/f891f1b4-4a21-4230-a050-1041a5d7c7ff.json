@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "消消乐",
+    "texture": "423cf337-9196-4ae3-8fc9-ba20abae380c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

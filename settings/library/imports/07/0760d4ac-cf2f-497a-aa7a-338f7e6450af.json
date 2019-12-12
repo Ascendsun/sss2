@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "安全承诺",
+    "texture": "86f52bbc-0017-4f7a-ac80-87c17bfd0c08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      463,
+      285
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      463,
+      285
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "快去创建房间",
+    "texture": "0aa7cf10-2b76-49aa-ac5e-1c1506f3dd14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      176
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      167,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

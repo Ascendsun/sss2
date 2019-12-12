@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开1",
+    "texture": "035a3c16-a4f2-4073-8ef3-69ae2ff3be57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

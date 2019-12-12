@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shezhi",
+    "texture": "bd7ab834-7676-43b1-89b6-8c08ae0477cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      322,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玻璃底框",
+    "texture": "7203c3f0-4638-4172-94df-472f06ef3f45",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      1137,
+      95
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      1137,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

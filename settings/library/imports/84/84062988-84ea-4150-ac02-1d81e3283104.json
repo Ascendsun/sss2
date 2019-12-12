@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhanji",
+    "texture": "7a2e6fbc-264c-49b0-84a8-4b746646a943",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      321,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      321,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

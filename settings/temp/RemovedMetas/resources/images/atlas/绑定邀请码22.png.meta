@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "168d42f9-eed6-491b-bab5-cbd1894177fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "绑定邀请码22": {
+      "ver": "1.0.3",
+      "uuid": "211727af-03ec-44c9-b087-3dbc8f10829f",
+      "rawTextureUuid": "168d42f9-eed6-491b-bab5-cbd1894177fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 175,
+      "height": 60,
+      "rawWidth": 175,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

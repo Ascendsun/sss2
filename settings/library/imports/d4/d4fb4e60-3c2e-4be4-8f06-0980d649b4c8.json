@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "好友场(文字)",
+    "texture": "e6c42cf5-4d40-4837-bc17-8c038e7a8048",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      84,
+      34
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      87,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "胜",
+    "texture": "6c54e8a4-4494-448d-a64b-826e279160e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

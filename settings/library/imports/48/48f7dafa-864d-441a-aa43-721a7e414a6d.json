@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "select框",
+    "texture": "3d46909c-fb93-445f-8113-e9f7f3330403",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

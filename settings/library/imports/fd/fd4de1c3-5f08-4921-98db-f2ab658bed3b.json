@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "邮件-消息-按下",
+    "texture": "5031c671-62d0-4645-a22f-9157d80bbd20",
+    "atlas": "1ea3f79b-d0a6-4d37-9856-87a53d9ffe0c",
+    "rect": [
+      1204,
+      184,
+      408,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      408,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

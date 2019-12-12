@@ -1,0 +1,1220 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "base2",
+      "texture": "56ClspfXZJi7klEA4KDr0S",
+      "rect": [
+        874,
+        1036,
+        871,
+        504
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        871,
+        504
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "close",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1626,
+        150,
+        120,
+        184
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        184
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_sprite_splash",
+      "texture": "02delMVqdBD70a/HSD99FK",
+      "rect": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        2
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "message",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "message",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "d68fDatA5MhbGF152+hBmX"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "sprite_splash",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "a2MjXRFdtLlYQ5ouAFv/+R"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 2
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 3
+              },
+              "component": "DialogClick",
+              "handler": "onClick"
+            }
+          ],
+          "_N$target": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "3fq9lFr9xEw7xuKOgLzUz1"
+      },
+      "_opacity": 122,
+      "_color": {
+        "__type__": "cc.Color"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 720
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "DialogClick",
+      "_parent": {
+        "__id__": 4
+      },
+      "_components": [
+        {
+          "__type__": "a07b3XLiwVBk5RFzHmd50Gx",
+          "node": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "d3HDfNs01CV7FKwnLKGfrY"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "script",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "6dfcEzppRO0oimXcS58t51"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "MessageDialog",
+      "_parent": {
+        "__id__": 4
+      },
+      "_components": [
+        {
+          "__type__": "c56edHPmRpESZK38dhRM8Dx",
+          "node": {
+            "__id__": 5
+          },
+          "title_message": {
+            "__id__": 6
+          },
+          "title_contact": {
+            "__id__": 10
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "dfE45KOv9PYaJ2DaqT9CJH"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "message",
+      "_parent": {
+        "__id__": 7
+      },
+      "_children": [
+        {
+          "__id__": 19
+        },
+        {
+          "__id__": 20
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "2cU6QcubtI04jBcO3PiqU3"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -3,
+        "y": 188
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "title",
+      "_parent": {
+        "__id__": 8
+      },
+      "_children": [
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 14
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "f3TTgsLyBJ44XfIxeHvZ/j"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "base2",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 7
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "7beeAK4uFPTJDHhfCzYi2M"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "0fSchG+KlBxaOTYomYqAJd"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 871,
+        "height": 504
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "close",
+      "_parent": {
+        "__id__": 8
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "8eg1O5lm1GjZSKSu7Dfa+c"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 9
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 3
+              },
+              "component": "DialogClick",
+              "handler": "onCloseClick"
+            }
+          ],
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 9
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "9fQ9/Z7gtNn6fpIKYAEBE5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 120,
+        "height": 184
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 430,
+        "y": 210
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "contact",
+      "_parent": {
+        "__id__": 7
+      },
+      "_children": [
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 13
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "77WWYgUIBH06RfFTidW5Gp"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 188
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "message",
+      "_parent": {
+        "__id__": 10
+      },
+      "_children": [
+        {
+          "__id__": 12
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 11
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 5
+              },
+              "component": "MessageDialog",
+              "handler": "onMessage"
+            }
+          ],
+          "_N$target": {
+            "__id__": 11
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "26IyXgBBxCoL4RJvz9JEe2"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 384,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -207,
+        "y": -1
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邮件-消息",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 12
+          },
+          "_spriteFrame": {
+            "__uuid__": "d3KPVPzRtG/a43duzFESXv"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "48zZL84ahGcLwmqQmfP1tI"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 98,
+        "height": 46
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邮件-联系我们-按下",
+      "_parent": {
+        "__id__": 10
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "f3/aoqacdK94MVRxsIQgH9"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "36mGL0uPVPXYiQOGNEs11p"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 401,
+        "height": 52
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 200
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "messagebox",
+      "_parent": {
+        "__id__": 7
+      },
+      "_children": [
+        {
+          "__id__": 15
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "b3PW10VepCDpeFMp9CebJs"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -2,
+        "y": 39
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "message",
+      "_parent": {
+        "__id__": 14
+      },
+      "_children": [
+        {
+          "__id__": 16
+        },
+        {
+          "__id__": 17
+        },
+        {
+          "__id__": 18
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 15
+          },
+          "_spriteFrame": {
+            "__uuid__": "cdVc/1ucNAVrIKrfsyAJMO"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "3a99fyvdVKE4KOFQ7XUoX6"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 803,
+        "height": 190
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "title",
+      "_parent": {
+        "__id__": 15
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 16
+          },
+          "_useOriginalSize": false,
+          "_string": "欢迎加入贝密游戏",
+          "_N$string": "欢迎加入贝密游戏",
+          "_fontSize": 30,
+          "_lineHeight": 30,
+          "_enableWrapText": false,
+          "_N$file": {
+            "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+          },
+          "_isSystemFontUsed": false,
+          "_N$verticalAlign": 1,
+          "_N$overflow": 2
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "8090SSnIhCMbdWCFwoCyL+"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 117,
+        "g": 68,
+        "b": 51
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 333,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -148,
+        "y": 64
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "datetime",
+      "_parent": {
+        "__id__": 15
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 17
+          },
+          "_useOriginalSize": false,
+          "_string": "2017-11-18 14:54:45",
+          "_N$string": "2017-11-18 14:54:45",
+          "_fontSize": 30,
+          "_lineHeight": 30,
+          "_N$file": {
+            "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+          },
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "c6iWcWYYFPpZIL1Ao2NbNr"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 117,
+        "g": 68,
+        "b": 51
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 282.42,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 170,
+        "y": 64
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "content",
+      "_parent": {
+        "__id__": 15
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 18
+          },
+          "_useOriginalSize": false,
+          "_string": "恭喜您注册成功贝密游戏，我们为每一位玩家准备了5000金币，以表感谢！如果您在游戏中遇到了问题，欢迎到游戏反馈中填写，感谢您的支持！（礼包已自动发放，无需领取）",
+          "_N$string": "恭喜您注册成功贝密游戏，我们为每一位玩家准备了5000金币，以表感谢！如果您在游戏中遇到了问题，欢迎到游戏反馈中填写，感谢您的支持！（礼包已自动发放，无需领取）",
+          "_fontSize": 25,
+          "_lineHeight": 30,
+          "_N$file": {
+            "__uuid__": "ec0NzgX7VFLZqAA6HiktZ7"
+          },
+          "_isSystemFontUsed": false,
+          "_N$overflow": 2
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "dd1Td+yfBM64F3PvJf0CwH"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 117,
+        "g": 68,
+        "b": 51
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 768,
+        "height": 119
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 5,
+        "y": -27
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邮件-消息-按下",
+      "_parent": {
+        "__id__": 6
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 19
+          },
+          "_spriteFrame": {
+            "__uuid__": "fdTeHDXwhJIZjb8qtli+07"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "9dEu7koDVDHbH/yNW8qbaI"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 408,
+        "height": 51
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -200
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "contact",
+      "_parent": {
+        "__id__": 6
+      },
+      "_children": [
+        {
+          "__id__": 21
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 20
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 5
+              },
+              "component": "MessageDialog",
+              "handler": "onContacts"
+            }
+          ],
+          "_N$target": {
+            "__id__": 20
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "bd4A8dnwNHNKco8J7ZXtk/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 395,
+        "height": 61
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 204,
+        "y": -1
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "邮件-联系我们",
+      "_parent": {
+        "__id__": 20
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 21
+          },
+          "_spriteFrame": {
+            "__uuid__": "daeVNFjY1OybFK41EOSVSz"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a7zhkFluhLqqN8nCAedrHf"
+        },
+        "fileId": "60ezSo3mdKVaVdjrMRXI5w"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 147,
+        "height": 46
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-mail_base",
+      "texture": "04/P2yz5tE0Ki9LyZljFeS",
+      "rect": [
+        619,
+        944,
+        803,
+        190
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        803,
+        190
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-消息",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        235,
+        1952,
+        98,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        46
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-联系我们",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1156,
+        136,
+        147,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        147,
+        46
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-联系我们-按下",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1336,
+        757,
+        401,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        401,
+        52
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "邮件-消息-按下",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1204,
+        184,
+        408,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        408,
+        51
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

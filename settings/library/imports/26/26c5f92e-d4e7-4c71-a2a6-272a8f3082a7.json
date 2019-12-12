@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "官方网站",
+    "texture": "f813960c-b629-4e72-9405-e06d5d7bcb08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

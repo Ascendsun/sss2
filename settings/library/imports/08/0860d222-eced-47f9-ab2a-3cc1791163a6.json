@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "雨布",
+    "texture": "181c06ca-78a4-4bf1-bdf7-799520299a98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      948,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      948,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

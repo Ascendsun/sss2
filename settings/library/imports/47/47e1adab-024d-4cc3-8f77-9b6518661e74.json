@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "活动",
+    "texture": "a2a4ee0c-fb3f-4e60-bcf2-7bb899d08ea9",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      60,
+      74
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      65,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

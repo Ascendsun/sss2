@@ -1,0 +1,718 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮-button2",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1336,
+        627,
+        388,
+        128
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        388,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.SceneAsset",
+      "_name": "login",
+      "scene": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Scene",
+      "_name": "New Node",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_anchorPoint": {
+        "__type__": "cc.Vec2"
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "autoReleaseAssets": false
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Canvas",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 15
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Canvas",
+          "node": {
+            "__id__": 2
+          },
+          "_designResolution": {
+            "__type__": "cc.Size",
+            "width": 1280,
+            "height": 720
+          },
+          "_fitWidth": true
+        },
+        {
+          "__type__": "2b60bxhrRtJ44oyACJf+UrI",
+          "node": {
+            "__id__": 2
+          },
+          "loaddingPrefab": {
+            "__uuid__": "8800ulTD9GGKuPMqZV3sWr"
+          },
+          "alertPrefab": {
+            "__uuid__": "72Jbq/SNFEhYbd8tqC+gz9"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 720
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 640,
+        "y": 360
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_id": "13a9dO2TRKGLVCHStt3AFi"
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Main Camera",
+      "_parent": {
+        "__id__": 2
+      },
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Camera",
+          "node": {
+            "__id__": 3
+          },
+          "_clearFlags": 7,
+          "_depth": -1
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "global",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 12
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "image",
+      "_parent": {
+        "__id__": 4
+      },
+      "_children": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "bg1",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "71ysENn5FFr41s1NwwnkIK"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 717
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "main",
+      "_parent": {
+        "__id__": 4
+      },
+      "_children": [
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "tips",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "afBrDqNTtMi4CwHujIC6NQ"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 999,
+        "height": 24
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -335
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "user-agreement",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "57Md/BJhBF8IU/auULhv2T"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 269,
+        "height": 43
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -250
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gou",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "c9o5jXRzhO0Y7i/b3ZskSu"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 36,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -112.5,
+        "y": -251
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "logo",
+      "_parent": {
+        "__id__": 7
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "1ectEUr6VKjKpUMC+Txx7g"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 441,
+        "height": 168
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 123
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "button",
+      "_parent": {
+        "__id__": 4
+      },
+      "_children": [
+        {
+          "__id__": 13
+        },
+        {
+          "__id__": 16
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "button2",
+      "_parent": {
+        "__id__": 12
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "1clqzKq6FEq4og/Luhdarv"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 13
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 14
+              },
+              "_componentId": "c20fdJA4UpBA5zauiK5QF44",
+              "handler": "login"
+            }
+          ],
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 13
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 388,
+        "height": 128
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -200,
+        "y": -100
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "common",
+      "_parent": {
+        "__id__": 15
+      },
+      "_components": [
+        {
+          "__type__": "c20fdJA4UpBA5zauiK5QF44",
+          "node": {
+            "__id__": 14
+          }
+        }
+      ],
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 144,
+        "y": 18
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "script",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 14
+        }
+      ],
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "button1",
+      "_parent": {
+        "__id__": 12
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 16
+          },
+          "_spriteFrame": {
+            "__uuid__": "45fGJxiAhBVZHGfa38XMkk"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 16
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 14
+              },
+              "_componentId": "c20fdJA4UpBA5zauiK5QF44",
+              "handler": "login"
+            }
+          ],
+          "_N$transition": 3,
+          "transition": 3,
+          "_N$target": {
+            "__id__": 16
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 342,
+        "height": 85
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": -153
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "LOGO2",
+      "texture": "facwnUWf1BV5vgpRbdsrFi",
+      "rect": [
+        1,
+        1289,
+        441,
+        168
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        441,
+        168
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "微信登陆1",
+      "texture": "34bD2tNllHS57WRmb8MmDQ",
+      "rect": [
+        1,
+        1,
+        301,
+        79
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        303,
+        81
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮-user-agreement",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1446,
+        890,
+        330,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        330,
+        53
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "首页",
+      "texture": "b2jPKHxMxOeobH7DXU/svL",
+      "rect": [
+        0,
+        0,
+        1136,
+        640
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1136,
+        640
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮-tips",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1,
+        136,
+        999,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        999,
+        24
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "按钮-gou",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        335,
+        1952,
+        48,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        42
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

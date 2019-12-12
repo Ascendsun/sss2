@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "牌型",
+    "texture": "22cbc254-7521-4729-9ccc-872911b00324",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

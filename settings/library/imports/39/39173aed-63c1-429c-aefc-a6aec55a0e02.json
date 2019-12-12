@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuan",
+    "texture": "dcd97e3a-1df7-433d-aa70-0dadc932f7b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      912,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      912,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

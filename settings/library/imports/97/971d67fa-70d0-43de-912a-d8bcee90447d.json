@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "最大抢庄",
+    "texture": "59f510fa-528e-4fde-a68a-79ab8329159e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

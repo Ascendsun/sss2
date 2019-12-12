@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "房间战绩1",
+    "texture": "0ce8a932-565d-4405-9c0f-8be16bb32d3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "牌面-wan5",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        615,
+        519,
+        79,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        111
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "侧家出牌",
+      "texture": "f0KFahuhJJJaLEoqbxRmS7",
+      "rect": [
+        1286,
+        942,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "rightcards",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "rightcards",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "b8da7m1o6lOnpZbARNcuqt/",
+          "node": {
+            "__id__": 1
+          },
+          "atlas": {
+            "__uuid__": "99FzQ8DbtCe5KcDgHw62f6"
+          },
+          "beimi0": {
+            "__uuid__": "99FzQ8DbtCe5KcDgHw62f6"
+          },
+          "cardvalue": {
+            "__id__": 3
+          },
+          "target": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "e2kowEZpFAoKhxzjMsJTwX"
+        },
+        "fileId": "a0RgfvLrZPVKK3HXPWW368"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 23.5,
+        "y": 94
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-侧家出牌",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "2eZrYOavdMsZhdeeHz0g+V"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "e2kowEZpFAoKhxzjMsJTwX"
+        },
+        "fileId": "161tHQNEFOGoqMW7sh0d9F"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 49,
+        "height": 49
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "麻将牌-牌面-wan5",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "2dBBNCFbFGCZME5dnPXFvl"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "e2kowEZpFAoKhxzjMsJTwX"
+        },
+        "fileId": "b5LvW1R+FFB7Q6k62H5rKn"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 79,
+        "height": 111
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -3.3,
+        "y": 6
+      },
+      "_scaleX": 0.4,
+      "_scaleY": 0.4,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_rotationX": -90,
+      "_rotationY": -90
+    }
+  ]
+]

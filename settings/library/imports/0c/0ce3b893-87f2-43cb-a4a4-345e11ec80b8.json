@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "诚招代理....",
+    "texture": "e4117b0c-c226-4b15-9b12-6bbaf415fb69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      295
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      295
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

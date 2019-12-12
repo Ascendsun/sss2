@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "比赛场",
+    "texture": "34f2bf5f-cb9f-4f71-b11c-fa18d3612703",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

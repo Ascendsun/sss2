@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "翻翻乐1",
+    "texture": "c473a821-9f8e-4863-a66a-3fc1b81630c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

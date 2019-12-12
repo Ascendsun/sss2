@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "自动开桌",
+    "texture": "53928c6f-18ea-4c21-a23b-908faf0910d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

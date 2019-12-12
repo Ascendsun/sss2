@@ -1,0 +1,99 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/module/hall/script/Playway.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, 'bc637Rt3XZNHq0lqg8C5lYR', 'Playway', __filename);
+// module/hall/script/Playway.js
+
+"use strict";
+
+var beiMiCommon = require("BeiMiCommon");
+cc.Class({
+    extends: beiMiCommon,
+    properties: {
+        // foo: {
+        //    default: null,      // The default value will be used only when the component attaching
+        //                           to a node for the first time
+        //    url: cc.Texture2D,  // optional, default is typeof default
+        //    serializable: true, // optional, default is true
+        //    visible: true,      // optional, default is true
+        //    displayName: 'Foo', // optional
+        //    readonly: false,    // optional, default is false
+        // },
+        // ...
+        tag: {
+            default: null,
+            type: cc.Node
+        },
+        score: {
+            default: null,
+            type: cc.Label
+        },
+        onlineusers: {
+            default: null,
+            type: cc.Label
+        },
+        scorelimit: {
+            default: null,
+            type: cc.Label
+        },
+        atlas: {
+            default: null,
+            type: cc.SpriteAtlas
+        }
+    },
+
+    // use this for initialization
+    onLoad: function onLoad() {},
+    init: function init(playway) {
+        console.log(playway + "返回数据");
+        /**
+         * 需要预先请求 在线人数
+         */
+        if (playway) {
+            var frameName = "初级";
+            if (playway.level == '2') {
+                frameName = "高级";
+            }
+            this.data = playway;
+
+            if (playway.shuffle == false) {
+                this.tag.active = false;
+            } else {
+                this.tag.active = true;
+            }
+
+            frameName = frameName + playway.skin;
+
+            this.getComponent(cc.Sprite).spriteFrame = this.atlas.getSpriteFrame(frameName);
+
+            this.onlineusers.string = playway.onlineusers + " 人 ";
+            var min = parseInt(playway.mincoins / 1000) + "千";
+            if (playway.mincoins >= 10000) {
+                min = parseInt(playway.mincoins / 10000) + "万";
+            }
+            var max = parseInt(playway.maxcoins / 1000) + "千";
+            if (playway.maxcoins >= 10000) {
+                max = parseInt(playway.maxcoins / 10000) + "万";
+            }
+            this.scorelimit.string = min + "-" + max;
+
+            this.score.string = playway.score;
+        }
+    }
+    // called every frame, uncomment this function to activate update callback
+    // update: function (dt) {
+
+    // },
+});
+
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=Playway.js.map
+        

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "粘贴",
+    "texture": "e12d8d44-0b24-4b6a-a53f-4c181bd984f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

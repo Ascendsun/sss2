@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beimi-image-other",
+    "texture": "facwnUWf1BV5vgpRbdsrFi",
+    "rect": [
+      0,
+      0,
+      2020,
+      1649
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2020,
+      1649
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

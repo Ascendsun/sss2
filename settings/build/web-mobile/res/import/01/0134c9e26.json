@@ -1,0 +1,1150 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-title",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1465,
+        1610,
+        147,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        147,
+        43
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-base_name",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1198,
+        593,
+        296,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        296,
+        83
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-line",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1230,
+        105,
+        710,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        710,
+        4
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-base_coin",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        1283,
+        593,
+        296,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        296,
+        51
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-avatar2",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        717,
+        1781,
+        169,
+        169
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        169,
+        169
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-avatar_遮盖锯齿边框_对齐中心点",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        37,
+        1781,
+        179,
+        179
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        179,
+        179
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-IP",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        2006,
+        857,
+        234,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        234,
+        30
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "userinfo",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "userinfo",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "a6OEvGrXBJXqCdFBR7tczI"
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "base1",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 16
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "ae1kN46ItC9bxSp8dCs2iW"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "c4hZVB08lLd42Zigul8K2w"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 871,
+        "height": 504
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-title",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "11c9R489lHsa1SU5A0UIOP"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "2dbmDMPONB3LuYxJ1JXBi6"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 147,
+        "height": 43
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 194
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-avatar_遮盖锯齿边框_对齐中心点",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "a8HwzdUrpPlpgQxIEDTPRe"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "a2ptQ0uXdFO7tHLxK/SfER"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 179,
+        "height": 179
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -170,
+        "y": 18
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-avatar2",
+      "_parent": {
+        "__id__": 4
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "a405ovo25KTLTOUsGmSsKE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "4cXeY0/mtOcb6pv1eC2zD+"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 169,
+        "height": 169
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "昵称",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 13
+        },
+        {
+          "__id__": 15
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "f35QL8nilDPrl4sfZjBDpu"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 98
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-base_name",
+      "_parent": {
+        "__id__": 6
+      },
+      "_children": [
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "64NQ5B1FJDCotWKipg7UWC"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "0ftK1nmAxPELST91ZyNEd9"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 296,
+        "height": 83
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -5.1,
+        "y": 64
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 8
+          },
+          "_useOriginalSize": false,
+          "_string": "Guest_22xaerqer",
+          "_N$string": "Guest_22xaerqer",
+          "_fontSize": 25,
+          "_lineHeight": 25,
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "15xPfIavpNqooJv2ULsY+a"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 157,
+        "g": 85,
+        "b": 38
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 193.18,
+        "height": 25
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -34,
+        "y": 17
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 9
+          },
+          "_useOriginalSize": false,
+          "_string": "ID：8224231",
+          "_N$string": "ID：8224231",
+          "_fontSize": 25,
+          "_lineHeight": 25,
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "a3MJY7YqRP1KiIdNguyCy8"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 157,
+        "g": 85,
+        "b": 38
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 147.33,
+        "height": 25
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -58.5,
+        "y": -16.9
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-base_coin",
+      "_parent": {
+        "__id__": 6
+      },
+      "_children": [
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 12
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "87jvTXC7dAr6Gz0u4BCko3"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "d7CgPmixJDta8l+yArwOT/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 296,
+        "height": 51
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -5.1,
+        "y": -6
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-coin",
+      "_parent": {
+        "__id__": 10
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "cak+xdJnFDAaTsa97c0hFm"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "88Zlykv3RKcplYdTmlTzk5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 40,
+        "height": 39
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -119.1,
+        "y": -3.4
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 10
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 12
+          },
+          "_useOriginalSize": false,
+          "_string": "1343万",
+          "_N$string": "1343万",
+          "_fontSize": 25,
+          "_lineHeight": 25,
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "42QlDTkixFKYDKHypkQbdu"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 226,
+        "g": 139,
+        "b": 1
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 80.62,
+        "height": 25
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -53
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-IP",
+      "_parent": {
+        "__id__": 6
+      },
+      "_children": [
+        {
+          "__id__": 14
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "abJlSImi9HZJ9fYvf6wXCk"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "24P/Hta3tBWrCxdfLlwLEh"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 234,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -32.1,
+        "y": -50.2
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 13
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 14
+          },
+          "_useOriginalSize": false,
+          "_string": "192.168.111.24",
+          "_N$string": "192.168.111.24",
+          "_fontSize": 22,
+          "_lineHeight": 22,
+          "_isSystemFontUsed": false,
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "886n5CWvFDSrDNA39SPWO1"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 211,
+        "g": 170,
+        "b": 115
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 149.66,
+        "height": 22
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 12,
+        "y": -2
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "玩家信息-line",
+      "_parent": {
+        "__id__": 6
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 15
+          },
+          "_spriteFrame": {
+            "__uuid__": "74EXavtyRLxLzk/kOhbAue"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "c8CNMkDEpNvr4iqr4FHpWD"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 710,
+        "height": 4
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -91
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "位置提醒",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 17
+        },
+        {
+          "__id__": 18
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "45Rzx2NE9CZ685z66bi2/c"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -132.4,
+        "y": -112.3
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 16
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 17
+          },
+          "_useOriginalSize": false,
+          "_string": "Guest的位置是广东佛山顺德电信用户",
+          "_N$string": "Guest的位置是广东佛山顺德电信用户",
+          "_fontSize": 25,
+          "_lineHeight": 25,
+          "_enableWrapText": false,
+          "_isSystemFontUsed": false,
+          "_N$verticalAlign": 1,
+          "_N$overflow": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "bbDc0sJBRF5plI6938jPjL"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 136,
+        "g": 75,
+        "b": 34
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 631,
+        "height": 39.8
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 189,
+        "y": -6.6
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 16
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 18
+          },
+          "_useOriginalSize": false,
+          "_string": "玩家Guest_242ze和玩家Guest242zf的IP相同，请谨慎！",
+          "_N$string": "玩家Guest_242ze和玩家Guest242zf的IP相同，请谨慎！",
+          "_fontSize": 25,
+          "_lineHeight": 25,
+          "_enableWrapText": false,
+          "_isSystemFontUsed": false,
+          "_N$verticalAlign": 1,
+          "_N$overflow": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aeazvpvOVM+pvH9eferZd6"
+        },
+        "fileId": "bf9cpvHU9CHIjxtx43Fp4E"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 136,
+        "g": 75,
+        "b": 34
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 631,
+        "height": 39.8
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 189,
+        "y": -47.6
+      },
+      "_scaleX": 1,
+      "_scaleY": 1,
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "base1",
+      "texture": "56ClspfXZJi7klEA4KDr0S",
+      "rect": [
+        1,
+        1036,
+        871,
+        504
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        871,
+        504
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "玩家信息-coin",
+      "texture": "50McZxYtBGRaIvkVfYC70g",
+      "rect": [
+        956,
+        1909,
+        40,
+        39
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        39
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

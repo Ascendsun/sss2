@@ -1,0 +1,292 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a4",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1439,
+        1494,
+        185,
+        192
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a2",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        435,
+        1462,
+        167,
+        192
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a7",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1463,
+        1118,
+        199,
+        204
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a3",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1255,
+        1296,
+        183,
+        196
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "gang_guafeng",
+    "_duration": 0.5166666666666667,
+    "wrapMode": 0,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "9743AkdNJLIrQgOADqLIh4"
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__uuid__": "3anJfyv8ZFbI/ZDQzx7ZzN"
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__uuid__": "64VNI2buhMZYW1GTFf8pP+"
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__uuid__": "16OfAo1jJPWY1PRKrft8Qx"
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__uuid__": "eenuKGr65BJ5UiFlLGnRrj"
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__uuid__": "ccEA2Yg3pOLYATg5JR3b6K"
+              }
+            },
+            {
+              "frame": 0.4,
+              "value": {
+                "__uuid__": "3eaxsBx7xCEZW1VU8EmRLF"
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__uuid__": "86Dp5Q2GFBeLQt2Tj1L7fM"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "events": [
+      {
+        "frame": 0.5166666666666667,
+        "func": "onAnimCompleted",
+        "params": []
+      }
+    ]
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a8",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        929,
+        1372,
+        195,
+        196
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a1",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1332,
+        705,
+        169,
+        188
+      ],
+      "offset": [
+        1,
+        2
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a6",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        1260,
+        876,
+        201,
+        214
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "effect_a5",
+      "texture": "d9TtPWm/1IQ4HBJ4m2URRr",
+      "rect": [
+        960,
+        954,
+        199,
+        218
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        201,
+        218
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

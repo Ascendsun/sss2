@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "清理缓存",
+    "texture": "9c06829a-e713-472f-88b2-929d761b44d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

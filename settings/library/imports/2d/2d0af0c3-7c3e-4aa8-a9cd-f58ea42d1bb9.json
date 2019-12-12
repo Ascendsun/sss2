@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加入房间",
+    "texture": "7e25b941-e309-496c-9e53-f33903134981",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

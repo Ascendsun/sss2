@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "summary-你输了",
+    "texture": "fa7309d4-59fd-4157-9be0-a516ddb2b162",
+    "atlas": "a273b2af-cfaf-4915-94dc-538be1abf176",
+    "rect": [
+      444,
+      1260,
+      553,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      553,
+      185
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

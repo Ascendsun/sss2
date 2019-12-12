@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wanfa",
+    "texture": "a16b2df4-50f4-4c66-82c7-a07d66dac679",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1070,
+      580
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1070,
+      580
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

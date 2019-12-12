@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "败",
+    "texture": "4e18589c-8483-442f-b22e-d7e720e2ef2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "今日已领",
+    "texture": "e20b8780-a7f8-4885-84ac-dbf8d924c3e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      358,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      358,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

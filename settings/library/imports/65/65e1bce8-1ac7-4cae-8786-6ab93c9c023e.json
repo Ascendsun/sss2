@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关",
+    "texture": "ff4c19ba-428f-43a0-9cd0-80addfa1b788",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

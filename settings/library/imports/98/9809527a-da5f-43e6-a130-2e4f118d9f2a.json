@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "支付宝",
+    "texture": "f3d6ae9d-613f-4aab-84ef-d1331ee88765",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
